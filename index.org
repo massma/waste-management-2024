@@ -1,0 +1,27 @@
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: title:nil
+#+OPTIONS: num:nil
+#+OPTIONS: ::800
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+STARTUP:    showall
+#+TITLE:      Adam Massmann
+#+AUTHOR:     Adam Massmann
+#+EMAIL:      akm2204 "at" columbia "dot" edu
+#+LANGUAGE:   en
+
+** Solid and Hazardous Waste Management
+
+Welcome!
+
+*** Tasks for Thursday's Class (September 5)
+
+- By Wednesday night email me an idea for your course project.
+  - This will help us organize into groups on Thrusday
+- Record a name pronunciation in Courseworks if you have not already.
+  - This will help me pronouce your name.
+
+*** Links
+
+- Tuesday (September
