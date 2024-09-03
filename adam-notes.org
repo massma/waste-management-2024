@@ -1,0 +1,82 @@
+* Random Project Musings
+** NYC System
+*** new NYC compost system
+*** new york city 2006 waste management plan
+- [[docview:waste-management/papers/swmp-comprehensive-report-2006.pdf::1][waste-management/papers/swmp-comprehensive-report-2006.pdf]]
+
+*** Where does it go?
+- [[https://www.curbed.com/2022/08/nyc-trash-landfill-incineration-recycling-compost-voyage-gross.html][Voyage of the Gross: Where New York City’s Trash Goes]]
+  - hard to get answers of export destination post-transfer station in
+    initial search, so there is above.
+  - high acres landfill (outside Rochester)
+  - lee county landfill (Bishoville South Carolina)
+  - Covanta
+
+*** new york state high acres landfill (takes a lot of nyc trash)
+- https://dec.ny.gov/environmental-protection/waste-management/solid-waste-program/high-acres-landfill
+- nearby town: https://perinton.org/departments/public-works/environmental-compliance-2/high-acres-landfill/
+  - compliance presentation
+*** NYC Zero Waste
+- zero waste plan: https://www.nyc.gov/assets/dsny/downloads/resources/reports/zero-waste-plan/zero-waste-plan.pdf
+- [[docview:waste-management/papers/zero-waste-plan.pdf::1][waste-management/papers/zero-waste-plan.pdf]]
+- Local Law 87 of 2023 requires DSNY to create a zero waste plan and to increase waste diversion from landfill and incineration through waste reduction, reuse, and recycling
+- Goal is zero waste by 2030, but zero waste plan sound skeptical
+*** Land fills -> parks
+- field trip?
+**** Flushing Meadows-Corona Park
+**** Fresh Kills
+**** Great Kills
+**** Pete and Toshi Seeger Riverfront Park (Beacon)
+- free sailing on the Woody!
+**** Pelham Bay Park
+
+*** redesign of past nyc (or other municipal) system
+** Nuclear
+*** nuclear waste
+- spent fuel rods go into what sounds like is essentially a swimming
+  pool (with thick lining) to cool
+- then they put in welded steel cylinders and just sit around ("dry casks")
+  - designed to be interim, but no long term permanent storage
+    facility anywhere in the world.
+- algae remediation?
+- nice summary of radioactive waste:
+  https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/radwaste.html
+
+*** West Valley Demonstration Project (Nuclear Fuel Reprocessing Facility)
+- https://www.nyserda.ny.gov/All-Programs/West-Valley/West-Valley-Demonstration-Project
+- https://www.energy.gov/em/west-valley-demonstration-project-wvdp
+**** Katy Barnhart Projections of Landscape Evolution on a 10,000 Year Timescale With Assessment and Partitioning of Uncertainty Sources
+- waste from a nuclear fuel reprocessing facility
+- tiny change in initial condition leads to big change in model results
+- so if you dig a culvert somewhere, or put a road in, can completely
+  change the landscape and whether you have nuclear waste exposed or not.
+- https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JF005795
+
+**** annual reports
+- https://www.energy.gov/em/west-valley-demonstration-project-year-review
+***** 2015
+- annual report: [[docview:waste-management/papers/2015_west_valley_annual_report.pdf::1][waste-management/papers/2015_west_valley_annual_report.pdf]]
+*** indian point decommissioning
+- liquid waste; https://www.nysenate.gov/legislation/bills/2023/S6893
+  - nrc effluent: https://www.nrc.gov/info-finder/reactors/ip3/faq.html
+- [[docview:waste-management/papers/indian-point-decomission-ML19354A698.pdf::1][waste-management/papers/indian-point-decomission-ML19354A698.pdf]]
+  - ISFSI: Independent Spent Fuel Storage Installation
+  - see pg 66/76
+- unit 2 decommissioning: https://www.nrc.gov/info-finder/reactors/ip2.html
+- unit 1: https://www.nrc.gov/info-finder/decommissioning/power-reactor/indian-point-unit-1.html
+- license for indian point: https://www.nrc.gov/reactors/operating/licensing/renewal/applications/indian-point.html
+** rural ecosystem design for single dwelling (or small community)
+- given local ecosystem characteristics, how would I design a solid
+  waste management system for a single dwelling?
+
+** running shoe recycling
+- on has subscription model
+- salomon had recyclable shoes
+
+** how could space taken up with street parking be utilized?
+- I think I've seen underground garbage compactors/bins from some
+  municipal system somewhere?
+- compost & gardens/rain gardens?
+** fungi breakdown of waste
+
+** find existing request for proposal to redesign or provide waste management

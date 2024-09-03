@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2024-09-02 Mon 21:27 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Adam Massmann" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#orgf544985">1. Random Project Musings</a>
+<ul>
+<li><a href="#orgd56f609">1.1. NYC System</a>
+<ul>
+<li><a href="#org1bbbecb">1.1.1. new NYC compost system</a></li>
+<li><a href="#org7503951">1.1.2. new york city 2006 waste management plan</a></li>
+<li><a href="#org635fb25">1.1.3. Where does it go?</a></li>
+<li><a href="#org3128524">1.1.4. new york state high acres landfill (takes a lot of nyc trash)</a></li>
+<li><a href="#orge900e03">1.1.5. NYC Zero Waste</a></li>
+<li><a href="#org9e33aaa">1.1.6. Land fills -&gt; parks</a></li>
+<li><a href="#org6011d7b">1.1.7. redesign of past nyc (or other municipal) system</a></li>
+</ul>
+</li>
+<li><a href="#org675a120">1.2. Nuclear</a>
+<ul>
+<li><a href="#orgfb17115">1.2.1. nuclear waste</a></li>
+<li><a href="#orgd05f8b2">1.2.2. West Valley Demonstration Project (Nuclear Fuel Reprocessing Facility)</a></li>
+<li><a href="#org6468723">1.2.3. indian point decommissioning</a></li>
+</ul>
+</li>
+<li><a href="#orgb6538b2">1.3. rural ecosystem design for single dwelling (or small community)</a></li>
+<li><a href="#org19bd12d">1.4. running shoe recycling</a></li>
+<li><a href="#orgc9cdd66">1.5. how could space taken up with street parking be utilized?</a></li>
+<li><a href="#org2c85231">1.6. fungi breakdown of waste</a></li>
+<li><a href="#orgedf50b4">1.7. find existing request for proposal to redesign or provide waste management</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orgf544985" class="outline-2">
+<h2 id="orgf544985"><span class="section-number-2">1.</span> Random Project Musings</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orgd56f609" class="outline-3">
+<h3 id="orgd56f609"><span class="section-number-3">1.1.</span> NYC System</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org1bbbecb" class="outline-4">
+<h4 id="org1bbbecb"><span class="section-number-4">1.1.1.</span> new NYC compost system</h4>
+</div>
+<div id="outline-container-org7503951" class="outline-4">
+<h4 id="org7503951"><span class="section-number-4">1.1.2.</span> new york city 2006 waste management plan</h4>
+<div class="outline-text-4" id="text-1-1-2">
+<ul class="org-ul">
+<li><a href="/home/adam/waste-management/waste-management/papers/swmp-comprehensive-report-2006.pdf">waste-management/papers/swmp-comprehensive-report-2006.pdf</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org635fb25" class="outline-4">
+<h4 id="org635fb25"><span class="section-number-4">1.1.3.</span> Where does it go?</h4>
+<div class="outline-text-4" id="text-1-1-3">
+<ul class="org-ul">
+<li><a href="https://www.curbed.com/2022/08/nyc-trash-landfill-incineration-recycling-compost-voyage-gross.html">Voyage of the Gross: Where New York City’s Trash Goes</a>
+<ul class="org-ul">
+<li>hard to get answers of export destination post-transfer station in
+initial search, so there is above.</li>
+<li>high acres landfill (outside Rochester)</li>
+<li>lee county landfill (Bishoville South Carolina)</li>
+<li>Covanta</li>
+</ul></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org3128524" class="outline-4">
+<h4 id="org3128524"><span class="section-number-4">1.1.4.</span> new york state high acres landfill (takes a lot of nyc trash)</h4>
+<div class="outline-text-4" id="text-1-1-4">
+<ul class="org-ul">
+<li><a href="https://dec.ny.gov/environmental-protection/waste-management/solid-waste-program/high-acres-landfill">https://dec.ny.gov/environmental-protection/waste-management/solid-waste-program/high-acres-landfill</a></li>
+<li>nearby town: <a href="https://perinton.org/departments/public-works/environmental-compliance-2/high-acres-landfill/">https://perinton.org/departments/public-works/environmental-compliance-2/high-acres-landfill/</a>
+<ul class="org-ul">
+<li>compliance presentation</li>
+</ul></li>
+</ul>
+</div>
+</div>
+<div id="outline-container-orge900e03" class="outline-4">
+<h4 id="orge900e03"><span class="section-number-4">1.1.5.</span> NYC Zero Waste</h4>
+<div class="outline-text-4" id="text-1-1-5">
+<ul class="org-ul">
+<li>zero waste plan: <a href="https://www.nyc.gov/assets/dsny/downloads/resources/reports/zero-waste-plan/zero-waste-plan.pdf">https://www.nyc.gov/assets/dsny/downloads/resources/reports/zero-waste-plan/zero-waste-plan.pdf</a></li>
+<li><a href="/home/adam/waste-management/waste-management/papers/zero-waste-plan.pdf">waste-management/papers/zero-waste-plan.pdf</a></li>
+<li>Local Law 87 of 2023 requires DSNY to create a zero waste plan and to increase waste diversion from landfill and incineration through waste reduction, reuse, and recycling</li>
+<li>Goal is zero waste by 2030, but zero waste plan sound skeptical</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org9e33aaa" class="outline-4">
+<h4 id="org9e33aaa"><span class="section-number-4">1.1.6.</span> Land fills -&gt; parks</h4>
+<div class="outline-text-4" id="text-1-1-6">
+<ul class="org-ul">
+<li>field trip?</li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="orgaf9c761"></a>Flushing Meadows-Corona Park<br /></li>
+<li><a id="org8ffb3dd"></a>Fresh Kills<br /></li>
+<li><a id="orgb9f94c3"></a>Great Kills<br /></li>
+<li><a id="org8f59b3c"></a>Pete and Toshi Seeger Riverfront Park (Beacon)<br />
+<div class="outline-text-5" id="text-1-1-6-4">
+<ul class="org-ul">
+<li>free sailing on the Woody!</li>
+</ul>
+</div>
+</li>
+<li><a id="orgb787b9e"></a>Pelham Bay Park<br /></li>
+</ol>
+</div>
+
+<div id="outline-container-org6011d7b" class="outline-4">
+<h4 id="org6011d7b"><span class="section-number-4">1.1.7.</span> redesign of past nyc (or other municipal) system</h4>
+</div>
+</div>
+<div id="outline-container-org675a120" class="outline-3">
+<h3 id="org675a120"><span class="section-number-3">1.2.</span> Nuclear</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-orgfb17115" class="outline-4">
+<h4 id="orgfb17115"><span class="section-number-4">1.2.1.</span> nuclear waste</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<ul class="org-ul">
+<li>spent fuel rods go into what sounds like is essentially a swimming
+pool (with thick lining) to cool</li>
+<li>then they put in welded steel cylinders and just sit around ("dry casks")
+<ul class="org-ul">
+<li>designed to be interim, but no long term permanent storage
+facility anywhere in the world.</li>
+</ul></li>
+<li>algae remediation?</li>
+<li>nice summary of radioactive waste:
+<a href="https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/radwaste.html">https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/radwaste.html</a></li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgd05f8b2" class="outline-4">
+<h4 id="orgd05f8b2"><span class="section-number-4">1.2.2.</span> West Valley Demonstration Project (Nuclear Fuel Reprocessing Facility)</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<ul class="org-ul">
+<li><a href="https://www.nyserda.ny.gov/All-Programs/West-Valley/West-Valley-Demonstration-Project">https://www.nyserda.ny.gov/All-Programs/West-Valley/West-Valley-Demonstration-Project</a></li>
+<li><a href="https://www.energy.gov/em/west-valley-demonstration-project-wvdp">https://www.energy.gov/em/west-valley-demonstration-project-wvdp</a></li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="org623cf8d"></a>Katy Barnhart Projections of Landscape Evolution on a 10,000 Year Timescale With Assessment and Partitioning of Uncertainty Sources<br />
+<div class="outline-text-5" id="text-1-2-2-1">
+<ul class="org-ul">
+<li>waste from a nuclear fuel reprocessing facility</li>
+<li>tiny change in initial condition leads to big change in model results</li>
+<li>so if you dig a culvert somewhere, or put a road in, can completely
+change the landscape and whether you have nuclear waste exposed or not.</li>
+<li><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JF005795">https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JF005795</a></li>
+</ul>
+</div>
+</li>
+
+<li><a id="org9510273"></a>annual reports<br />
+<div class="outline-text-5" id="text-1-2-2-2">
+<ul class="org-ul">
+<li><a href="https://www.energy.gov/em/west-valley-demonstration-project-year-review">https://www.energy.gov/em/west-valley-demonstration-project-year-review</a></li>
+</ul>
+</div>
+<ol class="org-ol">
+<li><a id="orgb6634f1"></a>2015<br />
+<div class="outline-text-6" id="text-1-2-2-2-1">
+<ul class="org-ul">
+<li>annual report: <a href="/home/adam/waste-management/waste-management/papers/2015_west_valley_annual_report.pdf">waste-management/papers/2015<sub>west</sub><sub>valley</sub><sub>annual</sub><sub>report.pdf</sub></a></li>
+</ul>
+</div>
+</li>
+</ol>
+</li>
+</ol>
+</div>
+<div id="outline-container-org6468723" class="outline-4">
+<h4 id="org6468723"><span class="section-number-4">1.2.3.</span> indian point decommissioning</h4>
+<div class="outline-text-4" id="text-1-2-3">
+<ul class="org-ul">
+<li>liquid waste; <a href="https://www.nysenate.gov/legislation/bills/2023/S6893">https://www.nysenate.gov/legislation/bills/2023/S6893</a>
+<ul class="org-ul">
+<li>nrc effluent: <a href="https://www.nrc.gov/info-finder/reactors/ip3/faq.html">https://www.nrc.gov/info-finder/reactors/ip3/faq.html</a></li>
+</ul></li>
+<li><a href="/home/adam/waste-management/waste-management/papers/indian-point-decomission-ML19354A698.pdf">waste-management/papers/indian-point-decomission-ML19354A698.pdf</a>
+<ul class="org-ul">
+<li>ISFSI: Independent Spent Fuel Storage Installation</li>
+<li>see pg 66/76</li>
+</ul></li>
+<li>unit 2 decommissioning: <a href="https://www.nrc.gov/info-finder/reactors/ip2.html">https://www.nrc.gov/info-finder/reactors/ip2.html</a></li>
+<li>unit 1: <a href="https://www.nrc.gov/info-finder/decommissioning/power-reactor/indian-point-unit-1.html">https://www.nrc.gov/info-finder/decommissioning/power-reactor/indian-point-unit-1.html</a></li>
+<li>license for indian point: <a href="https://www.nrc.gov/reactors/operating/licensing/renewal/applications/indian-point.html">https://www.nrc.gov/reactors/operating/licensing/renewal/applications/indian-point.html</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div id="outline-container-orgb6538b2" class="outline-3">
+<h3 id="orgb6538b2"><span class="section-number-3">1.3.</span> rural ecosystem design for single dwelling (or small community)</h3>
+<div class="outline-text-3" id="text-1-3">
+<ul class="org-ul">
+<li>given local ecosystem characteristics, how would I design a solid
+waste management system for a single dwelling?</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-org19bd12d" class="outline-3">
+<h3 id="org19bd12d"><span class="section-number-3">1.4.</span> running shoe recycling</h3>
+<div class="outline-text-3" id="text-1-4">
+<ul class="org-ul">
+<li>on has subscription model</li>
+<li>salomon had recyclable shoes</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-orgc9cdd66" class="outline-3">
+<h3 id="orgc9cdd66"><span class="section-number-3">1.5.</span> how could space taken up with street parking be utilized?</h3>
+<div class="outline-text-3" id="text-1-5">
+<ul class="org-ul">
+<li>I think I've seen underground garbage compactors/bins from some
+municipal system somewhere?</li>
+<li>compost &amp; gardens/rain gardens?</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org2c85231" class="outline-3">
+<h3 id="org2c85231"><span class="section-number-3">1.6.</span> fungi breakdown of waste</h3>
+</div>
+
+<div id="outline-container-orgedf50b4" class="outline-3">
+<h3 id="orgedf50b4"><span class="section-number-3">1.7.</span> find existing request for proposal to redesign or provide waste management</h3>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Adam Massmann</p>
+<p class="date">Created: 2024-09-02 Mon 21:27</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

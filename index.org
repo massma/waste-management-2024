@@ -6,22 +6,65 @@
 #+OPTIONS: html-style:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 #+STARTUP:    showall
-#+TITLE:      Adam Massmann
+#+TITLE:      Waste Management
 #+AUTHOR:     Adam Massmann
-#+EMAIL:      akm2204 "at" columbia "dot" edu
+#+EMAIL:      akm2203 "at" columbia "dot" edu
 #+LANGUAGE:   en
 
 ** Solid and Hazardous Waste Management
 
-Welcome!
+Welcome! This is the course website for Solid and Hazardous Waste
+Management (EEAE 4160). This Learning Community's goal is to
+collectively design solid/hazardous waste-related interventions that
+improve the health of the Earth system.
 
-*** Tasks for Thursday's Class (September 5)
+- [[https://docs.google.com/document/d/1c4BuOWJOin1FxwsyJ0vJAVV42QEq9WeRSfVbQaDdsxA/edit?usp=sharing][Community agreement]]
 
-- By Wednesday night email me an idea for your course project.
-  - This will help us organize into groups on Thrusday
+- Instructor/facilitator: [[https://massma.github.io/][Adam Massmann]] (uni: akm2203)
+
+*** Current Tasks
+
+**** Before Thursday's Class (September 5)
+- Think about solid and hazardous waste management and the types of
+  problems you may want to work on.
 - Record a name pronunciation in Courseworks if you have not already.
-  - This will help me pronouce your name.
+- (optional) Add any edits or comments to the [[https://docs.google.com/document/d/1c4BuOWJOin1FxwsyJ0vJAVV42QEq9WeRSfVbQaDdsxA/edit?usp=sharing][community agreement]].
+- (optional) Fill out the [[https://www.when2meet.com/?26223463-ilVgY][when2meet]] with your availability to attend
+  office hours?
+
+
+**** By Thursday night (September 5)
+
+- Fill out the [[https://docs.google.com/forms/d/e/1FAIpQLSd2_NgWkrfuU_SVYc58uAqB0t4l8RCIS_FtKWTn7IQ5lipcJQ/viewform?usp=sf_link][course/project survey]].
+
+*** Schedule
+
+**** Week 1
+***** Tuesday, September 3
+
+Introduction to the course and the Learning Community approach.
+
+***** Thursday, September 5
+
+Introduce solid and hazardous waste management through a discussion of
+ideas for group projects.
+
+**** Week 2
+
+***** Tuesday, September 10
+
+Meet in groups to decide on group project ideas.
+
+***** Thursday, September 12
+
+Present group project ideas and introduce group members.
+
+**** Week 14
+
+***** Thursday, December 5th
+
+Collective reflection, feedback, and grade; see [[https://docs.google.com/document/d/1uYVIAEvPjDBc2uf91WIBS9z12h7s3YL8ezDSh-ITIf4/edit?usp=sharing][learning objectives]].
 
 *** Links
 
-- Tuesday (September
+- Adam's random notes
