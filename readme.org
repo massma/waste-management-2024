@@ -1,4 +1,4 @@
-This is the repository for "Solid and Hazardous Waste Management".
+This is the repository for "[[https://massma.github.io/waste-management-2024/][Solid and Hazardous Waste Management]]".
 
 To edit the website, please submit a pull request. If you don't know
 how to do that and would like to, reach out to Adam. Alternatively,

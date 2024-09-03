@@ -1,4 +1,9 @@
+#+OPTIONS: H:2 toc:nil num:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+
 * Solid and Hazardous Waste Management
+
 ** Introduction
 - I'm Adam (he/him)
 
@@ -11,6 +16,7 @@
   of the US.
 
 - I also enjoy dancing, running, walking, baking & cooking, and reading.
+
 ** What do I bring to this course?
 - I am not a leading expert on Solid and Hazardous Waste.
 
@@ -47,6 +53,7 @@ improve the health of the Earth system.
   learning objective.
 
 - [[https://docs.google.com/document/d/1c4BuOWJOin1FxwsyJ0vJAVV42QEq9WeRSfVbQaDdsxA/edit?usp=sharing][Community agreement]]
+
 ** ...How, specifically, will we meet the learning objective?
 
 - "Collectively design solid/hazardous waste-related interventions that
@@ -55,18 +62,19 @@ improve the health of the Earth system.
 - We will do exactly the learning objective in group projects, and
   learn by doing (active learning).
 
-- Our first task is to get into groups (4-6)!
+- Our first task is to get into groups (4-6 people)!
 
 - (we will do more thorough class introductions, etc. through our
   groups)
 
-** The Website
+** [[https://massma.github.io/waste-management-2024/][The Website]]
 
-- This is where all updates will be pushed, and is the place to check
+- [[https://massma.github.io/waste-management-2024/][This]] is where all updates will be pushed, and is the place to check
   for what's going on.
 
 - It is also editable through github; but you can also just email me
   any edits you want.
+
 ** Solid and hazardous waste warm up activity
 
 - Think about how you would define "waste". And what about the "solid"
@@ -84,11 +92,13 @@ improve the health of the Earth system.
   would you life choices change?
 ** Solid and hazardous waste warm up activity #2
 - If you were not allowed to dispose of any solid waste (e.g., you had
-  to keep it in your dorm room or apartment, forever) how would you
+  to keep it in your dorm room or apartment, forever) how would your
   life choices change?
-- Why did I ask you to do this kind of banal exercise?
+- Why did I ask you to do this thought experiment?
 
 ** Thank you!!!
-- Please bookmark the website.
-- <TODO: add QR code and bit.ly>
+- Please bookmark the website (https://bit.ly/4e8oa4R; [[file:qr-code-website.png][QR Code]]).
+
 - Think about project ideas, and be ready to discuss on Thursday.
+
+- If you haven't already, please record a name pronunciation on Courseworks.
