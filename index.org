@@ -26,12 +26,11 @@ improve the health of the Earth system.
 
 **** Before Thursday's Class (September 5)
 - Think about solid and hazardous waste management and the types of
-  problems you may want to work on.
+  problems you may want to work on for the group project.
 - Record a name pronunciation in Courseworks if you have not already.
 - (optional) Add any edits or comments to the [[https://docs.google.com/document/d/1c4BuOWJOin1FxwsyJ0vJAVV42QEq9WeRSfVbQaDdsxA/edit?usp=sharing][community agreement]].
 - (optional) Fill out the [[https://www.when2meet.com/?26223463-ilVgY][when2meet]] with your availability to attend
-  office hours?
-
+  office hours.
 
 **** By Thursday night (September 5)
 
@@ -42,7 +41,7 @@ improve the health of the Earth system.
 **** Week 1
 ***** Tuesday, September 3
 
-Introduction to the course and the Learning Community approach.
+Introduction to the course and the Learning Community approach. [[file:notes/class-01.org::*Solid and Hazardous Waste Management][Notes]] and [[file:notes/class-01.pdf][Slides]].
 
 ***** Thursday, September 5
 
@@ -67,4 +66,4 @@ Collective reflection, feedback, and grade; see [[https://docs.google.com/docume
 
 *** Links
 
-- Adam's random notes
+- [[file:adam-notes.html][Adam's random notes]]
