@@ -3,7 +3,7 @@
 #+LATEX_CLASS_OPTIONS: [presentation]
 
 * Solid and Hazardous Waste Management
-
+** Mindfulness and Being in the Present
 ** Introduction
 - I'm Adam (he/him)
 
