@@ -41,7 +41,7 @@ improve the health of the Earth system.
 **** Week 1
 ***** Tuesday, September 3
 
-Introduction to the course and the Learning Community approach. [[file:notes/class-01.org::*Solid and Hazardous Waste Management][Notes]] and [[file:notes/class-01.pdf][Slides]].
+Introduction to the course and the Learning Community approach. [[file:notes/class-01.pdf][Slides]].
 
 ***** Thursday, September 5
 
@@ -66,4 +66,4 @@ Collective reflection, feedback, and grade; see [[https://docs.google.com/docume
 
 *** Links
 
-- [[file:adam-notes.html][Adam's random notes]]
+- [[file:adam-notes.org][Adam's random notes]]
