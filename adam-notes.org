@@ -3,7 +3,6 @@
 *** new NYC compost system
 *** new york city 2006 waste management plan
 - [[file:papers/swmp-comprehensive-report-2006.pdf][papers/swmp-comprehensive-report-2006.pdf]]
-p
 *** Where does it go?
 - [[https://www.curbed.com/2022/08/nyc-trash-landfill-incineration-recycling-compost-voyage-gross.html][Voyage of the Gross: Where New York City’s Trash Goes]]
   - hard to get answers of export destination post-transfer station in
@@ -13,7 +12,7 @@ p
   - Covanta
 
 *** new york state high acres landfill (takes a lot of nyc trash)
-- https://dec.ny.gov/environmental-protection/solid-waste-program/high-acres-landfill
+- https://dec.ny.gov/environmental-protection/waste-management/solid-waste-program/high-acres-landfill
 - nearby town: https://perinton.org/departments/public-works/environmental-compliance-2/high-acres-landfill/
   - compliance presentation
 *** NYC Zero Waste
