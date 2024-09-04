@@ -1,0 +1,95 @@
+#+OPTIONS: H:2 toc:nil num:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+
+** Mindfulness
+** Anything to bring forward?
+** Elizabeth introduction
+** Learning objective
+** Review from Tuesday
+
+- Is everybody feeling okay with the collective feedback and grading
+  plan?
+
+** Review from Tuesday
+
+- Definition of waste as "stuff we can no longer use."
+  - "we" can be different people/systems/ecosystems/etc.
+  - great solutions connect one "we's" waste with another "we's" food.
+
+- What about the "solid" part?
+
+- What about the "hazardous" part?
+
+** Review from Tuesday cont'd
+
+- Everything is interconnected.
+
+- The interventions we make and solutions we design impact behavior
+  and decision making.
+
+- We should consider the potential consequences of our
+  designs/interventions/actions.
+
+- Conversely, past decisions, policy and design limit our
+  interventions. Who made those past decisions? Who is making the
+  current decisions?
+
+** Group activity
+
+- Introduce yourselves
+
+- Share your project ideas or topics
+
+- For each project idea/topic try and define:
+
+  1. The waste(s) you are working with (and from what perspectives/systems)?
+  2. Are there any other perspectives/systems that could use the
+     waste?
+  3. Are the waste(s) solid? Or under what conditions is it solid?
+  4. Are the waste(s) hazardous? Or under what conditions is it
+     hazardous? To what is it hazardous?
+  5. What are some possible interventions?
+
+** Mushroom Idea
+
+1. from humans: wood, compost, ash-contaminated soils, pig slurry, probably
+   more.
+2. Yes, a lot of this organic material can be used in other things;
+   but the fungi help break down toxic compounds, and help generate
+   soil/hummus that is ready to be used by plants faster.
+3. So far mostly solid
+4. Some of the ash applications seem pretty hazardous, and sounds like
+   mushrooms can help with treated wood that has bad chemicals in
+   it. Mushrooms also release enzymes that help break a lot of stuff
+   down; also can encourage growth of other organisms that break stuff
+   down.
+5. Add mushrooms to different compost bins, encourage mushrooms to
+   grow in old dumps/landfills, etc.
+
+   - can also explore cicular manufacturing with mycelium-based composites.
+
+
+** Dog poop Idea
+
+1. Dog poop (in cities)
+2. Yes; soils! Bacteria, funghi, all the "soils makers" etc., and then
+   from there plants can use it.
+3. Hopefully solid but not always.
+4. To my knowledge not hazarous to most things in most circumstances,
+   but can be if it has pathogens (need to research this more)
+    - Need to research this more
+5. What are some possible interventions?
+   - Public reusable scoops and buckets?
+   - Policy requiring individual (city-provided) scoops/buckets.
+   - How do we make this something people will actually use?
+   - What are the costs of making this a separate waste stream?
+   - How can it be woven in with other existing (or emerging waste
+     streams) like compost?
+
+
+** Flip through notes
+
+** Research approach (google scholar, clio, web of science, nypl)
+
+** Return to Groups and discuss more

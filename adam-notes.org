@@ -20,6 +20,8 @@
 - [[file:papers/zero-waste-plan.pdf][papers/zero-waste-plan.pdf]]
 - Local Law 87 of 2023 requires DSNY to create a zero waste plan and to increase waste diversion from landfill and incineration through waste reduction, reuse, and recycling
 - Goal is zero waste by 2030, but zero waste plan sound skeptical
+*** NYC Waste Characterization Study
+- [[file:papers/nyc-waste-characterization-study-2023.pdf][file:~/waste-management/papers/nyc-waste-characterization-study-2023.pdf]]
 *** Land fills -> parks
 - field trip?
 **** Flushing Meadows-Corona Park
@@ -76,6 +78,46 @@
 - I think I've seen underground garbage compactors/bins from some
   municipal system somewhere?
 - compost & gardens/rain gardens?
-** fungi breakdown of waste
+** fungi, mushroom, mycelium breakdown of waste
+*** Mycorrhiza
+- [[docview:~/Documents/mycorrhiza.pdf::1][~/Documents/mycorrhiza.pdf]]
+*** Fungal-Mediated Solid Waste Management: A Review (chapter in text book)
+- [[docview:~/Documents/mycoremediation_env_sustainability.pdf::1][~/Documents/mycoremediation_env_sustainability.pdf]]
+- see pg 153
+*** Circular furniture design using mill waste (supplemented w/ ag waste)
+[[docview:~/Documents/Waste_Remanufactured_Utilizin.pdf::1][~/Documents/Waste_Remanufactured_Utilizin.pdf]]
+*** Mycelium-Based Composite: The Future Sustainable Biomaterial
+- mycelium as natural adhesive materials
+- https://onlinelibrary.wiley.com/doi/full/10.1155/2022/8401528
+*** Application of mushroom fungi in solid waste management
+- https://www.researchgate.net/profile/Arvind-Singh-21/post/Which_fungi_use_for_fast_waste_management_how_use_in_it/attachment/5ca5ff6ecfe4a7df4ae592d6/AS%3A743949127938052%401554382702839/download/1.pdf
+*** Effect of inoculation with white-rot fungi and fungal consortium on the composting efficiency of municipal solid waste
+- https://www.sciencedirect.com/science/article/abs/pii/S0956053X16307760
+
+*** Effect of inoculation with white-rot fungi and fungal consortium on the composting efficiency of municipal solid waste
+- https://www.sciencedirect.com/science/article/abs/pii/S0956053X16307760
+- Type of fungi matters
+*** fungi in heavy metal poulluted ash disposal
+- https://www.sciencedirect.com/science/article/abs/pii/S0038071710000271
+*** biogas from wheat and pig slurry treated with fungi
+- http://www.eemj.icpm.tuiasi.ro/pdfs/vol14/no7/Full/28_1073_Vasmara_14.pdf
 
 ** find existing request for proposal to redesign or provide waste management
+
+** design dog poop system for NYC people will actually use
+- keep dog poop out of landfills
+- eliminate plastic bag usage
+- if people actually use it less dog poop everywhere
+
+
+* Waste management
+** solids definition
+- "Solid wastes are the undesirable and worthless solids which are generated from
+  municipal, industrial, and agricultural activities" from
+  [[docview:~/Documents/mycoremediation_env_sustainability.pdf::1][~/Documents/mycoremediation_env_sustainability.pdf]]
+
+** incineration
+- reduce mass of waste, but usually ash is highly concentrated w/
+  heavy metals and other potentially nasty things.
+*** gasification
+- partial oxidation, limit O2, create fuel
