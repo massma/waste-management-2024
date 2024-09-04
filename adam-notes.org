@@ -110,6 +110,41 @@
 - if people actually use it less dog poop everywhere
 
 
+* How class fits w/ EEE ecosystem
+** 4210 THERMAL TREATMNT-WASTE/BIO MAT
+- Origins, quantities generated, and characterization of solid
+  wastes. Chemical and physical phenomena in the combustion or
+  gasification of wastes. Application of thermal conversion
+  technologies, ranging from combustion to gasification and
+  pyrolysis. Quantitative description of the dominant waste to energy
+  processes used worldwide, including feedstock preparation, moving
+  grate and fluid bed combustion, heat transfer from combustion gases
+  to steam, mitigation of high-temperature corrosion, electricity
+  generation, district heating, metal recovery, emission control, and
+  beneficial use of ash residues
+** EAEE E4150 AIR POLLUTION PREVENTION/CONTR
+- Adverse effects of air pollution, sources and transport media,
+  monitoring and modeling of air quality, collection and treatment
+  techniques, pollution prevention through waste minimalization and
+  clean technologies, laws, regulations, standards, and guidelines
+** EAEE E4951 Engineering systems for water treatment and re-use.
+- Application of fundamental principles to designing water treatment
+  and reuse plants. Development of process designs for a potable water
+  treatment plant, a biological wastewater treatment plant, or a water
+  reclamation and reuse facility by students working in teams. Student
+  work in evaluation of water quality and pilot plant data, screening
+  process alternatives, conducting regulatory reviews and recommending
+  a process for implementation, supported by engineering drawings and
+  capital operating costs. Periodic oral progress reports and a full
+  engineering report are required. Presentations by practicing
+  engineers, utility personnel, and regulators; and field trips to
+  water, wastewater, and water reuse facilities.
+** EACE E4163 Sustainable Water Treatment and Reuse.
+- Fundamentals of water pollution and wastewater
+  characteristics. Chemistry, microbiology, and reaction
+  kinetics. Design of primary, secondary, and advanced treatment
+  systems. Small community and residential systems
+
 * Waste management
 ** solids definition
 - "Solid wastes are the undesirable and worthless solids which are generated from
