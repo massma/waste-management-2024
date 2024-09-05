@@ -43,8 +43,8 @@
 
 ** Somewhat related to definitions: how do project topics fit in with EEE curriculum?
 
-- Goal is to work on projects and learn material you can't learn
-  elsewhere in the EEE curriculum.
+- Goal is to work on projects and learn material you might not be able
+  to learn elsewhere in the EEE curriculum.
   - EAEE 4210 THERMAL TREATMNT-WASTE/BIO MAT
   - EAEE E4150 AIR POLLUTION PREVENTION/CONTR
   - EAEE E4951 Engineering systems for water treatment and re-use.
@@ -56,8 +56,8 @@
 - Introduce yourselves (names and pronouns)
   - Share your project ideas, topics, and/or questions and confusion
 
-- Discuss each project idea/topic, using your group's collab doc
-  linked on the website as a guide:
+- Discuss your project idea/topics (starting with one), using your
+  group's collab doc linked on the website as a guide:
 
   1. What are the waste(s) you are working with?
   2. Are the waste(s) solid? And/or under what conditions are
