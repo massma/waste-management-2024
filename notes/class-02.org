@@ -41,8 +41,8 @@
 
 - What about the "hazardous" part?
 
+** Somewhat related to defintions: how do project topics fit in with EEE curriculm?
 
-** Last thoughts on definitions and project topics
 - Goal is to work on projects and learn material you can't learn
   elsewhere in the EEE curriculum.
   - EAEE 4210 THERMAL TREATMNT-WASTE/BIO MAT
@@ -83,7 +83,7 @@
 
 ** Did we meet our learning objectives?
 
-** For Tuesday
+** For Tuesday (September 10th)
 
 - *Important*: if you have not already, fill out the survey by tonight.
 

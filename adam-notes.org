@@ -146,13 +146,13 @@
   kinetics. Design of primary, secondary, and advanced treatment
   systems. Small community and residential systems
 ** EAEE E4950 ENIVRON BIOCHEMICAL PROCESSES.
-Qualitative and quantitative considerations in engineered
-environmental biochemical processes. Characterization of multiple
-microbial reactions in a community and techniques for determining
-associated kinetic and stoichiometric parameters. Engineering design
-of several bioreactor configurations employed for biochemical waste
-treatment. Mathematical modeling of engineered biological reactors
-using state-of-the-art simulation packages.
+- Qualitative and quantitative considerations in engineered
+  environmental biochemical processes. Characterization of multiple
+  microbial reactions in a community and techniques for determining
+  associated kinetic and stoichiometric parameters. Engineering design
+  of several bioreactor configurations employed for biochemical waste
+  treatment. Mathematical modeling of engineered biological reactors
+  using state-of-the-art simulation packages.
 
 * Waste management
 ** solids definition
