@@ -2,16 +2,19 @@
 #+LATEX_CLASS: beamer
 #+LATEX_CLASS_OPTIONS: [presentation]
 
+* Solid and Hazardous Waste Management (#2)
+
 ** Mindfulness
-** Any thouths or questions?
-** Elizabeth introduction and slides
-** Learning objective
+** Any thoughts or questions?
+** Where we're at
+** Elizabeth's introduction and slides
+** Learning objectives
 1. Define solid waste.
 2. Define hazardous waste.
-3. Identify and define the solid and/or hazardous waste streams in our
+3. Identify and define the solid and/or hazardous waste streams in
+   different project areas.
+4. Generate exploratory intervention ideas related to different
    project areas.
-4. Generate exploratory intervention ideas related to our project
-   areas.
 ** Review from Tuesday
 
 - Is everybody feeling okay with the collective feedback and grading
@@ -27,11 +30,12 @@
 - We should consider the potential consequences of our
   designs/interventions/actions.
 
-** Review from Tuesday: some intitial definitons of waste
+** Review from Tuesday: some initial definitions of waste
 
 - Definition of waste as "stuff we can no longer use."
   - "we" can be different people/systems/ecosystems/etc.
-  - great solutions connect one "we's" waste with another "we's" food.
+  - nice solutions connect one "we's" waste with another "we's"
+    food/resource/etc..
 
 - What about the "solid" part?
 
@@ -40,7 +44,7 @@
 
 ** Last thoughts on definitions and project topics
 - Goal is to work on projects and learn material you can't learn
-  elsewhere in the EEE curriculm.
+  elsewhere in the EEE curriculum.
   - EAEE 4210 THERMAL TREATMNT-WASTE/BIO MAT
   - EAEE E4150 AIR POLLUTION PREVENTION/CONTR
   - EAEE E4951 Engineering systems for water treatment and re-use.
@@ -50,7 +54,7 @@
 ** Group activity
 
 - Introduce yourselves (names and pronouns)
-  - Share your project ideas or topics
+  - Share your project ideas, topics, and/or questions and confusion
 
 - For each project idea/topic try and define:
 
@@ -59,66 +63,31 @@
      they solid?
   3. Are the waste(s) hazardous? And/or under what conditions are they
      hazardous? To what/whom are they hazardous?
-  4. Utilization: Are there any other perspectives/systems that could
-     use the waste(s)? What processes/transformations would improve
-     utilization?
+  4. Are there any other systems that could use the waste(s)? What
+     processes/transformations would improve utilization?
   5. What are some possible interventions or culminating deliverables
      for this project?
 
+- Do you want to dive right in or have me demo this first?
 
-** Mushroom Idea
-
-1. Wood, compost, ash and pesticide contaminated soils, pig slurry,
-   probably more.
-2. So far mostly solid
-3. Some of the ash and pesticide applications seem pretty hazardous to
-   earth ecosystems (including humans), and sounds like mushrooms can
-   help with treated wood that has bad chemicals in it as
-   well. Mushrooms release enzymes that help break a lot of stuff
-   down; also can encourage growth of other organisms that break stuff
-   down.
-4. Yes, a lot of this organic material can be used in other things;
-   but the fungi help break down toxic compounds, and help generate
-   soil/hummus that is ready to be used by plants faster.
-5. Design: Add mushrooms to different compost bins, encourage mushrooms to
-   grow in old dumps/landfills, etc.
-
-   Design: Can also explore circular manufacturing with mycelium-based
-   composites.
-
-   Data tool/decision making: interactive quantification or
-   visualization of how much fungi can boost remediation and reduce
-   time to some healthy soil metric (or other ecosystem measure), as a
-   function of waste and fungi type (maybe environmental conditions as
-   well).
-
-** Dog poop Idea
-
-1. Dog poop (in nyc)
-2. Hopefully solid but not always.
-3. To my knowledge not hazarous to most things in most circumstances,
-   but can be bio-hazardous. Also dogs are capable of eating hazardous
-   stuff...
-   - Need to look into this more
-5. Yes; soils! Bacteria, funghi, all the "soils makers" etc., and then
-   from there plants can use it.
-4. What are some possible interventions?
-   - Design: Public reusable scoops and buckets?
-   - Design: Policy requiring individual (city-provided) scoops/buckets.
-   - How do we make this something people will actually use?
-   - What are the costs of making this a separate waste stream?
-   - How can it be woven in with other existing (or emerging waste
-     streams) like compost?
-   - Design: micro compost bins in each tree well, with public scoop
-   - Design: redesign tree wells themselves for sanitary and
-     hands-free composting of poop. (some kind of multilayered system
-     or automated top soils mixer or something?)
-
-** Next activities
+** Next activities: choose our own adventure
 - Flip through notes on project ideas
 
 - Research approach ([[https://scholar.google.com/][google scholar]], [[https://clio.columbia.edu/][CLIO]], [[https://www-webofscience-com.ezproxy.cul.columbia.edu/wos/woscc/basic-search][web of science]], [[https://www.nypl.org/][nypl]])
 
+- Take time to fill out survey
+
 - Return to Groups for more project discussion
 
 - Return to Groups for image hunt
+
+** Did we meet our learning objectives?
+
+** For Tuesday
+
+- *Important*: if you have not already, fill out the survey by tonight.
+
+- Expect an email from me Friday or Saturday introducing your groups.
+
+- Read through your group-mates' responses and think about project
+  ideas for Tuesday's discussion.

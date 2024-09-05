@@ -111,6 +111,7 @@
 
 
 * How class fits w/ EEE ecosystem
+- https://bulletin.columbia.edu/columbia-engineering/academic-departments-programs/earth-environmental-engineering/#coursestext
 ** 4210 THERMAL TREATMNT-WASTE/BIO MAT
 - Origins, quantities generated, and characterization of solid
   wastes. Chemical and physical phenomena in the combustion or
@@ -144,6 +145,14 @@
   characteristics. Chemistry, microbiology, and reaction
   kinetics. Design of primary, secondary, and advanced treatment
   systems. Small community and residential systems
+** EAEE E4950 ENIVRON BIOCHEMICAL PROCESSES.
+Qualitative and quantitative considerations in engineered
+environmental biochemical processes. Characterization of multiple
+microbial reactions in a community and techniques for determining
+associated kinetic and stoichiometric parameters. Engineering design
+of several bioreactor configurations employed for biochemical waste
+treatment. Mathematical modeling of engineered biological reactors
+using state-of-the-art simulation packages.
 
 * Waste management
 ** solids definition
