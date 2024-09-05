@@ -56,7 +56,8 @@
 - Introduce yourselves (names and pronouns)
   - Share your project ideas, topics, and/or questions and confusion
 
-- For each project idea/topic try and define:
+- Discuss each project idea/topic, using your group's collab doc
+  linked on the website as a guide:
 
   1. What are the waste(s) you are working with?
   2. Are the waste(s) solid? And/or under what conditions are
