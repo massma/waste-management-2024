@@ -147,7 +147,13 @@
 ** mixing of organics and hazards vs separation
 - related: "dilution is the solution" vs "isolate the hazardous stuff and
   handle it"
-
+** small scale systems and adaptability
+- push for zero waste; we are in times of change and uncertainty
+- so maybe similiar reasoning as in James's water/climate paper applies to waste:
+  - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EF001154
+- sequential small (time) scale projects
+- what about space scale?
+- correlation between time and space scale
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live
