@@ -1,6 +1,4 @@
 * Random Project Musings
-
-
 ** NYC System
 *** new NYC compost system
 *** new york city 2006 waste management plan
@@ -136,7 +134,15 @@
 ** experimental waste reduction (applied)
 - different interventions to different folks, record results
 - what are the systemic bariers you come across.
-
+** building scale compost system
+- use bins a la underground center
+- then use soil to build out tree wells and rain gardens, possibly in
+  street parking.
+- can also use soils for rooftop urban farms
+- pipe water through bins for warm water (capacity? see underground
+  center).
+- synergistic with cloud burst projects; reduce runoff.
+- pest protection?
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live

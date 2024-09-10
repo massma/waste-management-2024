@@ -1,5 +1,5 @@
 
-all : index.html adam-notes.html
+all : index.html adam-notes.html past-tasks.html
 	+$(MAKE) -C notes
 
 %.html : %.org
