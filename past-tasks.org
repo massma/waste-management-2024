@@ -1,3 +1,15 @@
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: toc:nil
+#+OPTIONS: title:nil
+#+OPTIONS: num:nil
+#+OPTIONS: ::800
+#+OPTIONS: html-style:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
+#+STARTUP:    showall
+#+TITLE:      Past Tasks
+#+AUTHOR:     Adam Massmann
+#+EMAIL:      akm2203 "at" columbia "dot" edu
+#+LANGUAGE:   en
 
 *** Week 1
 **** Before Thursday's Class (September 5)
