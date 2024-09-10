@@ -39,8 +39,10 @@
 **** Port Washington Landfill in North Hempstead, New York
 **** Norman J. Levy Park in Merrick, New York)
 **** Shoreline Regional Park in Mountain View, California
+*** US
 **** Millennium Park in Boston, Massachusetts
 **** Dyer Boulevard Park in West Palm Beach, Florida
+*** Korea
 **** Nanji Island Park, Seoul, Korea
 ** Nuclear
 *** nuclear waste
@@ -111,8 +113,6 @@
 - https://onlinelibrary.wiley.com/doi/full/10.1155/2022/8401528
 *** Application of mushroom fungi in solid waste management
 - https://www.researchgate.net/profile/Arvind-Singh-21/post/Which_fungi_use_for_fast_waste_management_how_use_in_it/attachment/5ca5ff6ecfe4a7df4ae592d6/AS%3A743949127938052%401554382702839/download/1.pdf
-*** Effect of inoculation with white-rot fungi and fungal consortium on the composting efficiency of municipal solid waste
-- https://www.sciencedirect.com/science/article/abs/pii/S0956053X16307760
 
 *** Effect of inoculation with white-rot fungi and fungal consortium on the composting efficiency of municipal solid waste
 - https://www.sciencedirect.com/science/article/abs/pii/S0956053X16307760
@@ -143,6 +143,11 @@
   center).
 - synergistic with cloud burst projects; reduce runoff.
 - pest protection?
+
+** mixing of organics and hazards vs separation
+- related: "dilution is the solution" vs "isolate the hazardous stuff and
+  handle it"
+
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live
