@@ -27,8 +27,10 @@ improve the health of the Earth system.
 
 *** Current Tasks
 
-- Nothing to do; but on Thursday September 12 each group will
-  introduce themselves to the class.
+- Nothing specific to do; but please review your groups' spreadsheet,
+  think about potential project areas and ideas, and if you are
+  feeling stuck consider brainstorming some steps or research that
+  might help generate ideas.
 
 - [[file:past-tasks.org][Past tasks]]
 
@@ -57,7 +59,17 @@ brainstorm.]]
 
 ***** Thursday, September 12
 
-Present group project ideas and introduce group members.
+Discussion of active learning, lectures, and background knowledge;
+meet in groups for background research and/or to converge toward a
+project idea.  [[https://docs.google.com/document/d/1ALFitImhK-TqYWsySX7dYzzpQC3g8D6gY5iYPwqKRlE/edit?usp=drive_link][Collective project ideas]]. [[https://docs.google.com/document/d/1gTMMrQiX4P3nvNSUEEEKMjAw_vIQ9UaeiwbINIgZy2g/edit?usp=drive_link][Group 1 brainstorm]]; [[https://docs.google.com/document/d/1q4bxPi2cUtp5ODYC_pR6s1ClsHs9OS5nUYdUg5uHoIQ/edit?usp=drive_link][Group 2
+brainstorm]]; [[https://docs.google.com/document/d/1fV3xm5Hg_yNpYr5kDAeIQnIFszflGldsLq1eOKrnKbo/edit?usp=drive_link][Group 3 brainstorm]]; [[https://docs.google.com/document/d/1Lx_dloi_9BKl8oeGD9gA_v8zLfgWTZkLXTRbfxwscCQ/edit?usp=drive_link][Group 4 brainstorm]]; [[https://docs.google.com/document/d/1YgN0VIEdGiGSvrxy_tarrO9R3ihTsLbYNYOpK9ox87o/edit?usp=drive_link][Group 5
+brainstorm]]; [[https://docs.google.com/document/d/1pw06CGXdSquNDzx16NDK0YaIuJqSuZer7hfk6-Z5m2o/edit?usp=drive_link][Group 6 brainstorm.]]
+
+**** Week 3
+
+***** Tuesday September 17th
+
+Present group project ideas and introduce group members?
 
 **** Week 14
 
@@ -68,3 +80,13 @@ Collective reflection, feedback, and grade; see [[https://docs.google.com/docume
 *** Links
 - [[https://drive.google.com/drive/folders/1SNvL7LhQjOsWKYlftEOHrcFp9EsyewzV?usp=drive_link][Google Drive Folder]]
 - [[file:adam-notes.org][Adam's random notes]]
+
+*** Learning-related links
+
+- [[https://drive.google.com/file/d/15krpTtVov1yJicgP_5S_DpE81Le_xOde/view?usp=drive_link]["Teaching to Transgress" by bell hooks]]
+
+- [[https://drive.google.com/file/d/1u0GxYz1dk8R5aVmFjtTsSlaP-PJ09Y0r/view?usp=drive_link]["Who's Asking?: Native Science, Western Science, and Science Education" by Bang and Medin]]
+
+- [[https://drive.google.com/file/d/1aR_8sMzea4yCcF-v8OgYCoAfXvtrFzd_/view?usp=drive_link]["The Spark of Learning" by Sarah Rose Cavanagh.]]
+
+- [[file:papers/freeman-et-al-2014-active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf]["Active learning increases student performance in science, engineering, and mathematics" by Freeman et al. (2014).]]
