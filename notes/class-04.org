@@ -24,21 +24,21 @@
 - Active learning is "a suite of pedagogical approaches that engage
   students in the construction of knowledge through activities and
   discussion in class, as opposed to passively listening to an
-  expert." - Theobald and Freeman in "[[file:~/waste-management/papers/active-learning_hands-on-meets-minds-on.pdf][Active Learning: Hands on Meets
+  expert." - Theobald and Freeman in "[[file:../papers/active-learning_hands-on-meets-minds-on.pdf][Active Learning: Hands on Meets
   Minds On]]"
 
 ** Active learning improves learning outcomes
 - "The results raise questions about the continued use of traditional
   lecturing as a control in research studies, and support active
   learning as the preferred, empirically validated teaching practice
-  in regular classrooms." - Freeman et al. in "[[file:~/waste-management/papers/freeman-et-al-2014-active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf][Active Learning
+  in regular classrooms." - Freeman et al. in "[[file:../papers/freeman-et-al-2014-active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf][Active Learning
   Increases Student Performance in Science, Engineering, and Mathematics]]."
 
 ** While students learn more with active learning, they perceive they learn more in lectures!
 - "Students learned significantly more with active learning (as
   expected), and they also felt that they learned from it—but their
   feeling of learning was more pronounced with the well-presented
-  traditional lectures." - Deslauriers et al in  "[[file:~/waste-management/papers/active-learning_hands-on-meets-minds-on.pdf][Active Learning: Hands on Meets
+  traditional lectures." - Deslauriers et al in  "[[file:../papers/active-learning_hands-on-meets-minds-on.pdf][Active Learning: Hands on Meets
   Minds On]]"
 
 ** Counterintuitively, it might be good sign folks are feeling daunted, confused, frustrated, or doubtful
