@@ -84,7 +84,7 @@ Collective reflection, feedback, and grade; see [[https://docs.google.com/docume
 *** Background Material and Broad Perspectives
 
 - [[https://drive.google.com/drive/folders/1rUqV6C6ePlatwTJeKprhtVdOv_epms-O?usp=drive_link][Past Version of This Course's Notes]]
-- [[https://ctl.columbia.edu/resources-and-technology/resources/project-based-learning/][MIT OpenCourseWare DLab: Waste]] (undergrad level)
+- [[https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/][MIT OpenCourseWare DLab: Waste]] (undergrad level)
   - [[file:papers/MITEC_716F15_Biohaz2.pdf][example class project from the course]]
 - [[https://ocw.mit.edu/courses/1-34-waste-containment-and-remediation-technology-spring-2004/pages/readings/][MIT OpenCourseWare Waste Containment and Remediation Technology]]  (grad level)
 
