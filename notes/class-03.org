@@ -94,4 +94,4 @@
 - Each group will introduce themselves and their initial project ideas
   (or questions and issues they ran into while trying to converge on a
   project idea).
-  - Goal: informal, conversational and no stress
+  - Goal: informal, conversational and low stress
