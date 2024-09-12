@@ -1,6 +1,6 @@
-* Please sit with your project group
+* Solid and Hazardous Waste Management (#4) [Please sit with your project group]
 
-[Solid and Hazardous Waste Management (#4)]
+
 
 ** Mindfulness
 
@@ -17,7 +17,7 @@
   get away from evidence-based active learning, and also run the risk
   of biasing the learning with my own filters and views.
 
-- This reflection made me realize I might not be scaffolding and
+- This reflection also made me realize I might not be scaffolding and
   justifying active, project based learning enough.
 
 ** Active learning
@@ -34,7 +34,7 @@
   in regular classrooms." - Freeman et al. in "[[file:~/waste-management/papers/freeman-et-al-2014-active-learning-increases-student-performance-in-science-engineering-and-mathematics.pdf][Active Learning
   Increases Student Performance in Science, Engineering, and Mathematics]]."
 
-** Students perceive they learn more in lectures than with active learning, although the opposite is true!
+** While students learn more with active learning, they perceive they learn more in lectures!
 - "Students learned significantly more with active learning (as
   expected), and they also felt that they learned from it—but their
   feeling of learning was more pronounced with the well-presented
@@ -45,12 +45,12 @@
 - It's okay and normal to feel confused, frustrated, etc. (Cavanagh)
 - It's normal to resist new forms of teaching/learning (hooks)
 - These feelings can be a part of a rewarding learning process
-  (Cavanagh, hooks)
-- Mindfulness can help (Cavanagh, Nhat Hanh)
+  (hooks, Cavanagh)
 - *Important*: discomfort or mild anxiety can help or be a part of the
   learning process, but high anxiety is detrimental; so please please
   communicate if you are feeling really anxious about anything in this
   class.
+- Mindfulness can help (Cavanagh, Nhat Hanh)
 
 ** I'm asking for your trust
 - That this more active, project based learning can work
@@ -58,17 +58,17 @@
 - Please please keep giving me feedback and contributing learning
   ideas; the fact that I won't lecture on Solid and Hazardous Waste
   Management does not mean I didn't hear and really think hard about
-  your feedback (I feel like Tuesday could have been a
-  breakthrough). Within active learning, there are so many knobs to
-  tune (for example structure), and these can be tailored to each
-  group and individual .
+  your feedback (I feel like Tuesday could be a breakthrough). Within
+  active learning, there are so many knobs to tune (for example
+  structure), and these can be tailored to each group and individual .
 
 - Let's try this! There's tons of opportunity and what is the worst
   that can happen?
 
 ** ...and I also want to advertise what we've accomplished in two days of class with tons of logistical challenges
 
-- This [[https://docs.google.com/document/d/1ALFitImhK-TqYWsySX7dYzzpQC3g8D6gY5iYPwqKRlE/edit][long list of project ideas]]
+- This [[https://docs.google.com/document/d/1ALFitImhK-TqYWsySX7dYzzpQC3g8D6gY5iYPwqKRlE/edit][long list of project ideas]] that exceeds the breadth of any of
+  the course syllabus I've seen (past 4160, MIT courses)
 
 - These learning objectives:
   1. Define solid waste.
@@ -78,6 +78,12 @@
   4. Generate exploratory intervention ideas related to different
      project areas.
 
+- Discussion on perspective taking (earthworms, bacteria)
+  and reciprocity in waste management.
+
+- Discussion on interdependence and coupling between consumption,
+  waste management systems, and behavior.
+
 ** Return to Class Structure Brainstorm
 
 ** Group meet!
@@ -86,8 +92,8 @@
     (song, book, TV show, food spot, local park, movie, stretch of
     street or trail, museum, sport, etc.)
 
-- Start brainstorming group project idea; brainstorming doc is
-  available from the website and in your Group's Google doc..
+- Brainstorm a group project idea; brainstorming doc is available from
+  the website and in your Group's Google folder.
 
 - Brainstorm a group name or mascot?
 
