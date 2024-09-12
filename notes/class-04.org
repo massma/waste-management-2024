@@ -1,7 +1,5 @@
 * Solid and Hazardous Waste Management (#4) [Please sit with your project group]
 
-
-
 ** Mindfulness
 
 ** Website Updates
@@ -41,7 +39,7 @@
   traditional lectures." - Deslauriers et al in  "[[file:../papers/active-learning_hands-on-meets-minds-on.pdf][Active Learning: Hands on Meets
   Minds On]]"
 
-** Counterintuitively, it might be good sign folks are feeling daunted, confused, frustrated, or doubtful
+** Counterintuitively, it might be a good thing if folks are (now or in the future) feeling daunted, confused, frustrated, or doubtful
 - It's okay and normal to feel confused, frustrated, etc. ([[https://drive.google.com/file/d/1aR_8sMzea4yCcF-v8OgYCoAfXvtrFzd_/view?usp=sharing][Cavanagh]])
 - It's normal to resist new forms of teaching/learning ([[https://drive.google.com/file/d/15krpTtVov1yJicgP_5S_DpE81Le_xOde/view?usp=drive_link][hooks]])
 - These feelings can be a part of a rewarding learning process
