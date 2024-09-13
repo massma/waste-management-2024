@@ -1,4 +1,4 @@
-* Random Project Musings
+* Random Project Musings and Ideas
 ** NYC System
 *** new NYC compost system
 *** new york city 2006 waste management plan
@@ -134,6 +134,7 @@
 ** experimental waste reduction (applied)
 - different interventions to different folks, record results
 - what are the systemic bariers you come across.
+** compost
 ** building scale compost system
 - use bins a la underground center
 - then use soil to build out tree wells and rain gardens, possibly in
@@ -143,7 +144,14 @@
   center).
 - synergistic with cloud burst projects; reduce runoff.
 - pest protection?
-*** shagbark farm community compost
+
+** new roots farm project idea
+- problem: on site compost is labor intensive, and more importantly,
+  does not get hot enough to be "comercial grade", so it can not
+  process invasives. Invasives end up in landfill.
+- Also, Cheryl could come up with a ton of other waste management
+
+** shagbark farm community compost
 - https://mailchi.mp/b1143dc5dcbc/2023yearinreview-20301453
 - composting ebook:
   https://mcusercontent.com/fa5312095fa9ccb52d4518393/files/4aaeecf9-11bb-4e1d-9ae7-d29e9c798b2e/DIY_resileint_infrastructure_compost_1.pdf
@@ -158,6 +166,25 @@
 - sequential small (time) scale projects
 - what about space scale?
 - correlation between time and space scale
+
+** brownfields development
+- seen a ton of calls for work for this in NYS procurement
+  - call for proposals: [[file:papers/2015_west_valley_annual_report.pdf][file:~/waste-management/papers/2015_west_valley_annual_report.pdf]]
+- https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
+- https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/
+*** New york state opportunities
+
+**** muncipalities/cities requesting redevelopment/remediation
+- https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=B4116F07-4475-4CF0-89D3-176399BF5E10&page=Closed%20Ad
+**** consulting side: call for proposals
+- https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=CC97A945-FFF6-4F0D-8581-A9154482AA00&page=Closed%20Ad
+- [[file:papers/epa-brownfield-rfp.pdf]]
+- flood risk hazard material (same city, same project)
+  https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=92408EE6-4D8C-48D2-9743-67EC3887F4F9&page=Open%20Ad
+*** opencourseware
+https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
+- textbook: Recycling the City: The Use and Reuse of Urban Land
+-
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live
@@ -214,18 +241,58 @@
   using state-of-the-art simulation packages.
 
 * Waste management
+** waste and energy
+-NYSERDA trying to locate energy infrastructure on former landfill
+ and/or brownfields sites:  https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=4C9D16F2-866E-4D72-B89D-B74D41F509CA&page=Open%20Ad
+** compost
+- large scale, municple: "Anaerobic Digestion facility
+  where source-separated food wastes from large generators
+  (institutions, food processors) are treated to produce methane
+  and a compost product."
+- does this keep us reliant on fossil fuel infrastructure, or is it
+  repurposing it for something better?
+** landfills
+*** and compost
+- what is the role of Alternate Daily Cover and how much of it comes
+  from municple compost?
+** a fundamental question: what is the value of organic matter in different Earth system (and waste management) contexts?!?
 ** solid waste definition
 - "Solid wastes are the undesirable and worthless solids which are generated from
   municipal, industrial, and agricultural activities" from
   [[docview:~/Documents/mycoremediation_env_sustainability.pdf::1][~/Documents/mycoremediation_env_sustainability.pdf]]
 
-** incineration
-- reduce mass of waste, but ash can be highly concentrated (relative
-  to input) w/ heavy metals
-
-*** covanta hemstead violations ash management
+** incineration and/or waste to energy
+*** waste to energy
+**** can I get materials from 4210 THERMAL TREATMNT-WASTE/BIO MAT?
+**** small scale waste to energy?
+- e.g., building scale. used to burn trash locally, too much pollution
+  and bad idea. but w/ modern emissions control is it possible to
+  design a local plant or reactor? what are the economies of scale?
+  (can scale in mass manufacturing compensate for scale in
+  plant/incinerator size?)
+- is this more adaptable as we go to zero waste? does it better
+  incentivize transition to zero waste? is it more just?
+**** how much is waste to energy dependent on composition of the waste input (organics fraction)?
+- is there a risk if we divert all our organics w2e companies will
+  start buying biomass to make their system work? consequences for
+  Earth system?
+- more generally, how much do different waste to energy systems "lock
+  us in" to different waste generation (and consumption) patterns?
+- pg 71 in Module 1 of thanos's slides seems to suggest C6H10O4 is
+  necessary (or representative) of waste input. Is this true with max
+  diversion?
+**** organic waste to energy?
+- https://mailchi.mp/b1143dc5dcbc/2023yearinreview-20301453
+**** covanta hemstead violations ash management
 - https://dec.ny.gov/news/press-releases/2024/2/dec-review-of-historic-ash-management-practices-finds-violations-at-covanta-hempstead-resource-recovery-facility
 - what is the difference in  pollutant profile between bottom and fly ash?
+- why is this a big deal? (or is it?)
 
-*** gasification
+**** gasification
 - partial oxidation, limit O2, create fuel
+**** general notes
+- reduce mass of waste, but ash can be highly concentrated (relative
+  to input) w/ heavy metals
+**** group 2 mentioned carbon capture: brilliant
+- evokes BECCS (all time bad engineering solution), but this
+  application seems good and intriguing because it is trash not trees.
