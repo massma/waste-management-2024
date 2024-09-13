@@ -135,7 +135,7 @@
 - different interventions to different folks, record results
 - what are the systemic bariers you come across.
 ** compost
-** building scale compost system
+*** building scale compost system
 - use bins a la underground center
 - then use soil to build out tree wells and rain gardens, possibly in
   street parking.
@@ -145,13 +145,13 @@
 - synergistic with cloud burst projects; reduce runoff.
 - pest protection?
 
-** new roots farm project idea
+*** new roots farm project idea
 - problem: on site compost is labor intensive, and more importantly,
   does not get hot enough to be "comercial grade", so it can not
   process invasives. Invasives end up in landfill.
 - Also, Cheryl could come up with a ton of other waste management
 
-** shagbark farm community compost
+*** shagbark farm community compost
 - https://mailchi.mp/b1143dc5dcbc/2023yearinreview-20301453
 - composting ebook:
   https://mcusercontent.com/fa5312095fa9ccb52d4518393/files/4aaeecf9-11bb-4e1d-9ae7-d29e9c798b2e/DIY_resileint_infrastructure_compost_1.pdf
