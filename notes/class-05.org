@@ -33,8 +33,8 @@
 
 ** Thank you! For Thursday
 
-- On Thursday each group will introduce themselves, their topic,
-  and/or any issues or problems they are having.
+- Plan for Thursday si for each group to introduce themselves, their
+  topic, and/or any issues or problems they are having.
 
 - These share-out help us learn from each other (breadth), and also
   let us help each other with any issues (practice group problem
@@ -46,5 +46,5 @@
 - Is anybody not comfortable with sharing your group's folder with
   everybody else?
 
-- Course problem: how can we get people to show up? Collective
-  accountability?
+- Problem solving opportunity: how do we get people to show up?
+  Collective accountability?
