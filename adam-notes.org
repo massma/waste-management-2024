@@ -185,6 +185,33 @@
 https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 - textbook: Recycling the City: The Use and Reuse of Urban Land
 -
+** akhil's projects
+*** waste to energy
+**** bioreactor company
+- when he bought this company was thinkig they would build 12
+  reactors/year, but haven't been able to build a single one because
+  of technical challenges. basically sounds like it is much harder and
+  more technical than they were expecting
+***** dairy waste
+- anaerobic digestor/bioreactor; produces methane and biosolids. carbon
+  accounting is carbon negative because carbon comes in from the
+  atmosphere and gets fixed in the biosolids, but I'm skeptical of
+  some of the assumptions they likely had to make to reach "negative"
+***** aerobic compost projection
+- aerobic bioreacotir/digestor. takes in high organic stuff, releases
+  co2 and heat, get compost product out
+- ppl are thinking down the line carbon capture, but akhil seemed
+  skeptical that will wok
+
+**** covanta
+***** plant in dublin
+- akhil's take was that it all burns and goes into the air; not too
+  much pollution control
+***** plant in newark
+- has contacts for possible site visit
+*** canadian waste management company
+- picks up municiple waste at transfer station and landfills it
+- also does port-a-john?
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live
@@ -256,6 +283,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 - what is the role of Alternate Daily Cover and how much of it comes
   from municple compost?
 ** a fundamental question: what is the value of organic matter in different Earth system (and waste management) contexts?!?
+- seems like everybody wants C$_x$ H$_x$ type stuff.
 ** solid waste definition
 - "Solid wastes are the undesirable and worthless solids which are generated from
   municipal, industrial, and agricultural activities" from
