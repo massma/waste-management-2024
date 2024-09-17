@@ -151,7 +151,7 @@
   process invasives. Invasives end up in landfill.
 - Also, Cheryl could come up with a ton of other waste management
 
-*** shagbark farm community compost
+*** the underground center farm community compost
 - https://mailchi.mp/b1143dc5dcbc/2023yearinreview-20301453
 - composting ebook:
   https://mcusercontent.com/fa5312095fa9ccb52d4518393/files/4aaeecf9-11bb-4e1d-9ae7-d29e9c798b2e/DIY_resileint_infrastructure_compost_1.pdf
@@ -168,10 +168,25 @@
 - correlation between time and space scale
 
 ** brownfields development
+- https://dec.ny.gov/environmental-protection/site-cleanup/brownfield-and-state-superfund-programs/brownfield
+  - new york state site data: https://data.ny.gov/Energy-Environment/Environmental-Remediation-Sites/c6ci-rzpg/about_data
+  - brownfield database: https://extapps.dec.ny.gov/cfmx/extapps/derexternal/haz/results.cfm?pageid=3
+- nyc: https://www.nyc.gov/site/sustainability/initiatives/brownfields.page
+  - https://www.nyc.gov/site/oer/remediation/voluntary-cleanup.page
 - seen a ton of calls for work for this in NYS procurement
-  - call for proposals: [[file:papers/2015_west_valley_annual_report.pdf][file:~/waste-management/papers/2015_west_valley_annual_report.pdf]]
+  - call for proposals: [[file:papers/epa-brownfield-rfp.pdf][file:~/waste-management/papers/epa-brownfield-rfp.pdf]]
 - https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 - https://ocw.mit.edu/courses/11-362-environmental-management-practicum-brownfield-redevelopment-fall-2006/
+*** case studies
+**** harlem park
+- C231041
+**** highline
+- C231036
+- great option; really well documented.
+**** 110th and frederick doublas
+-  C231087
+**** the city of new york owned beacon in harlem
+- C231155
 *** New york state opportunities
 
 **** muncipalities/cities requesting redevelopment/remediation
@@ -181,6 +196,19 @@
 - [[file:papers/epa-brownfield-rfp.pdf]]
 - flood risk hazard material (same city, same project)
   https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=92408EE6-4D8C-48D2-9743-67EC3887F4F9&page=Open%20Ad
+*** new york state consulting archive (can go back to 1995, in 10 year increments)
+- a ton of opportunies (and growing)
+  - 5 opportunites 1995-2005
+  - 38 opportunities 2005-2015
+  - 56 opportunities 2015-2024
+-
+- Empire State Development (ESD) is seeking a consultant to assist
+  with the "Rebuild Now NY" program. The purpose of this program is to
+  identify "brownfield" parcels of land and make selected sites
+  "shovel ready" for economic development.
+- https://www.nyscr.ny.gov/business/adsPubArchiveView.cfm?numID=110880&page=Archived%20Ad
+-
+
 *** opencourseware
 https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 - textbook: Recycling the City: The Use and Reuse of Urban Land

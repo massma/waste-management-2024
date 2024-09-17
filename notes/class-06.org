@@ -1,17 +1,31 @@
-** For next Thursday: find a case study
-- A case study is a specific example of an intervention or desinged
-  system in your project area. My recomendation would be to find
-  something local (e.g., Covanta plant for waste to energy; DSNY
-  Battery Recycling).
+* Solid and Hazardous Waste Management (#6) [Please sit with your project group]
+** Mindfulness
 
-- While you go through it make a list of questions you had (don't need
-  to answer them now, they are for further inquiry). For example
+** Group Introduction: Goals
+
+- Introduce everybody and hear everybody's voice!
+
+- Introduce your topic idea (or problems you are having picking a
+  topic, so we can help problem solve).
+
+** For next Thursday: find a case study
+- A case study is a specific example of an intervention or designed
+  system in your project area. My recommendation would be to find
+  something with narrow scope and/or local (e.g., Covanta plant for
+  waste to energy [or a small scale compost example?]; DSNY Battery
+  Recycling).
+
+- While you go through the case study make a list of questions you had
+  (don't need to answer them now, they are for further inquiry). For
+  example
   - Why did they do X?
   - What does X word mean?
-  - What is the hazardous threhsold of X substance?
+  - What is the hazardous threshold of X substance?
   - Where does X material end up?
   - Where does X material come from?
 
 - Make a note of what worked well (or is working well) in the design
 
 - Make a note of any challenges that they had
+
+  - These challenges could be opportunities for an intervention
