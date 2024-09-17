@@ -180,13 +180,26 @@
 *** case studies
 **** harlem park
 - C231041
+- remediation compleste
+- docs here:
+  - https://extapps.dec.ny.gov/data/DecDocs/C231041/
+- could be a park
 **** highline
 - C231036
 - great option; really well documented.
+  - [[https://extapps.dec.ny.gov/data/DecDocs/C231036/]]
 **** 110th and frederick doublas
--  C231087
+- C231087
+- remediation complete
+- this is that big new development on the NW edge of central park
+  where the gas station used to be
+- docs here:
+  - https://extapps.dec.ny.gov/data/DecDocs/C231087/
 **** the city of new york owned beacon in harlem
 - C231155
+- currently being worked on
+- https://extapps.dec.ny.gov/data/DecDocs/C231155/
+- in progres, wants to be redeveoped
 *** New york state opportunities
 
 **** muncipalities/cities requesting redevelopment/remediation

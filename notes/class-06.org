@@ -11,9 +11,7 @@
 ** For next Thursday: find a case study
 - A case study is a specific example of an intervention or designed
   system in your project area. My recommendation would be to find
-  something with narrow scope and/or local (e.g., Covanta plant for
-  waste to energy [or a small scale compost example?]; DSNY Battery
-  Recycling).
+  something with narrow scope and/or local.
 
 - While you go through the case study make a list of questions you had
   (don't need to answer them now, they are for further inquiry). For
@@ -24,7 +22,7 @@
   - Where does X material end up?
   - Where does X material come from?
 
-- Make a note of what worked well (or is working well) in the design
+- Make a note of what worked well in the design
 
 - Make a note of any challenges that they had
 
