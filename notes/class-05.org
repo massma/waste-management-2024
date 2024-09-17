@@ -8,8 +8,8 @@
   serious about the learning objective).
 
 - I put considerable thought, based on my experience as a consulting
-  engineer and academic researcher, into my course contributions and
-  design.
+  engineer, academic researcher, and educational developer, into my
+  course contributions and design.
 
 - Please be open minded.
 
@@ -21,7 +21,8 @@
 
   1. Group agreement on an initial topic within Solid and Hazardous Waste
      Management.
-  2. Community building/getting to know each other.
+  2. Community building/getting to know each other, including personal
+     goals and availability.
 
 - Collaborative docs serve as a future reference for you, and also
   help me know what's going on so I can better support your project
@@ -46,5 +47,5 @@
 - Is anybody not comfortable with sharing your group's folder with
   everybody else?
 
-- Problem solving opportunity: how do we get people to show up?
+- Problem solving opportunity: How do we convince each other to show up?
   Collective accountability?
