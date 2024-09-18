@@ -23,6 +23,8 @@
 *** NYC Waste Characterization Study
 - [[file:papers/nyc-waste-characterization-study-2023.pdf][file:~/waste-management/papers/nyc-waste-characterization-study-2023.pdf]]
 
+*** nyc consumer succinct summary of where stuff goes
+- https://www.nyc.gov/site/dsny/collection/get-rid-of/metal-glass-plastic-cartons.page
 *** redesign of past nyc (or other municipal) system
 ** waste dumps -> parks
 *** NYC
