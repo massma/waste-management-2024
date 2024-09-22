@@ -256,6 +256,8 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 *** canadian waste management company
 - picks up municiple waste at transfer station and landfills it
 - also does port-a-john?
+** if anybody gets a major story,  beat reporters to contact
+- Hiroko Tabuchi; https://www.nytimes.com/2024/09/18/insider/pollution-effects.html
 * Resources
 ** superfund site lookup (thanks Elizabeth!)
 - https://www.epa.gov/superfund/search-superfund-sites-where-you-live
@@ -368,3 +370,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 **** group 2 mentioned carbon capture: brilliant
 - evokes BECCS (all time bad engineering solution), but this
   application seems good and intriguing because it is trash not trees.
+
+** biosolids from municple sewage treatment
+- can accumulate PFAS or forever chemicasls; these are accumulating in
+  some ag areas.
