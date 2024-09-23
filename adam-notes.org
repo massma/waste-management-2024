@@ -8,7 +8,7 @@
   - hard to get answers of export destination post-transfer station in
     initial search, so there is above.
   - high acres landfill (outside Rochester)
-  - lee county landfill (Bishoville South Carolina)
+  - lee county landfill (Bishopville South Carolina)
   - Covanta
 
 *** new york state high acres landfill (takes a lot of nyc trash)
@@ -54,7 +54,7 @@
   - designed to be interim, but no long term permanent storage
     facility anywhere in the world.
     - is that possible?
-    - and if it was what does that mean philosphically?
+    - and if it was what does that mean philosophically?
 - algae remediation?
 - nice summary of radioactive waste:
   https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/radwaste.html
@@ -119,7 +119,7 @@
 *** Effect of inoculation with white-rot fungi and fungal consortium on the composting efficiency of municipal solid waste
 - https://www.sciencedirect.com/science/article/abs/pii/S0956053X16307760
 - Type of fungi matters
-*** fungi in heavy metal poulluted ash disposal
+*** fungi in heavy metal polluted ash disposal
 - https://www.sciencedirect.com/science/article/abs/pii/S0038071710000271
 *** biogas from wheat and pig slurry treated with fungi
 - http://www.eemj.icpm.tuiasi.ro/pdfs/vol14/no7/Full/28_1073_Vasmara_14.pdf
@@ -135,7 +135,7 @@
 - https://ecology.wa.gov/Spills-Cleanup/Contamination-cleanup/Cleanup-sites/Occidental-Chemical-Co
 ** experimental waste reduction (applied)
 - different interventions to different folks, record results
-- what are the systemic bariers you come across.
+- what are the systemic barriers you come across.
 ** compost
 *** building scale compost system
 - use bins a la underground center
@@ -149,7 +149,7 @@
 
 *** new roots farm project idea
 - problem: on site compost is labor intensive, and more importantly,
-  does not get hot enough to be "comercial grade", so it can not
+  does not get hot enough to be "commercial grade", so it can not
   process invasives. Invasives end up in landfill.
 - Also, Cheryl could come up with a ton of other waste management
 
@@ -163,7 +163,7 @@
   handle it"
 ** small scale systems and adaptability
 - push for zero waste; we are in times of change and uncertainty
-- so maybe similiar reasoning as in James's water/climate paper applies to waste:
+- so maybe similar reasoning as in James's water/climate paper applies to waste:
   - https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EF001154
 - sequential small (time) scale projects
 - what about space scale?
@@ -182,7 +182,7 @@
 *** case studies
 **** harlem park
 - C231041
-- remediation compleste
+- remediation complete
 - docs here:
   - https://extapps.dec.ny.gov/data/DecDocs/C231041/
 - could be a park
@@ -202,10 +202,10 @@
 - C231155
 - currently being worked on
 - https://extapps.dec.ny.gov/data/DecDocs/C231155/
-- in progres, wants to be redeveoped
+- in progress, wants to be redeveloped
 *** New york state opportunities
 
-**** muncipalities/cities requesting redevelopment/remediation
+**** municipalities/cities requesting redevelopment/remediation
 - https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=B4116F07-4475-4CF0-89D3-176399BF5E10&page=Closed%20Ad
 **** consulting side: call for proposals
 - https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=CC97A945-FFF6-4F0D-8581-A9154482AA00&page=Closed%20Ad
@@ -213,8 +213,8 @@
 - flood risk hazard material (same city, same project)
   https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=92408EE6-4D8C-48D2-9743-67EC3887F4F9&page=Open%20Ad
 *** new york state consulting archive (can go back to 1995, in 10 year increments)
-- a ton of opportunies (and growing)
-  - 5 opportunites 1995-2005
+- a ton of opportunities (and growing)
+  - 5 opportunities 1995-2005
   - 38 opportunities 2005-2015
   - 56 opportunities 2015-2024
 -
@@ -232,7 +232,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 ** akhil's projects
 *** waste to energy
 **** bioreactor company
-- when he bought this company was thinkig they would build 12
+- when he bought this company was thinking they would build 12
   reactors/year, but haven't been able to build a single one because
   of technical challenges. basically sounds like it is much harder and
   more technical than they were expecting
@@ -242,7 +242,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
   atmosphere and gets fixed in the biosolids, but I'm skeptical of
   some of the assumptions they likely had to make to reach "negative"
 ***** aerobic compost projection
-- aerobic bioreacotir/digestor. takes in high organic stuff, releases
+- aerobic bioreactor/digestor. takes in high organic stuff, releases
   co2 and heat, get compost product out
 - ppl are thinking down the line carbon capture, but akhil seemed
   skeptical that will wok
@@ -253,8 +253,8 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
   much pollution control
 ***** plant in newark
 - has contacts for possible site visit
-*** canadian waste management company
-- picks up municiple waste at transfer station and landfills it
+*** Canadian waste management company
+- picks up municipal waste at transfer station and landfills it
 - also does port-a-john?
 ** if anybody gets a major story,  beat reporters to contact
 - Hiroko Tabuchi; https://www.nytimes.com/2024/09/18/insider/pollution-effects.html
@@ -314,11 +314,18 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
   using state-of-the-art simulation packages.
 
 * Waste management
+** new york state regulations
+- https://dec.ny.gov/regulatory/regulations
+- "Quality Services"; chapter 4; has a lot on waste regulation:
+  https://dec.ny.gov/regulatory/regulations/chapter-iv
+- "Resource Management Services" Chapter 5; has information on
+  remediation techniques
+
 ** waste and energy
 -NYSERDA trying to locate energy infrastructure on former landfill
  and/or brownfields sites:  https://www.nyscr.ny.gov/business/adsPubView.cfm?ID=4C9D16F2-866E-4D72-B89D-B74D41F509CA&page=Open%20Ad
 ** compost
-- large scale, municple: "Anaerobic Digestion facility
+- large scale, municipal: "Anaerobic Digestion facility
   where source-separated food wastes from large generators
   (institutions, food processors) are treated to produce methane
   and a compost product."
@@ -327,7 +334,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 ** landfills
 *** and compost
 - what is the role of Alternate Daily Cover and how much of it comes
-  from municple compost?
+  from municipal compost?
 ** a fundamental question: what is the value of organic matter in different Earth system (and waste management) contexts?!?
 - seems like everybody wants C$_x$ H$_x$ type stuff.
 ** solid waste definition
@@ -357,7 +364,7 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
   diversion?
 **** organic waste to energy?
 - https://mailchi.mp/b1143dc5dcbc/2023yearinreview-20301453
-**** covanta hemstead violations ash management
+**** covanta Hempstead violations ash management
 - https://dec.ny.gov/news/press-releases/2024/2/dec-review-of-historic-ash-management-practices-finds-violations-at-covanta-hempstead-resource-recovery-facility
 - what is the difference in  pollutant profile between bottom and fly ash?
 - why is this a big deal? (or is it?)
@@ -371,6 +378,6 @@ https://ocw.mit.edu/courses/11-370-brownfields-policy-and-practice-fall-2005/
 - evokes BECCS (all time bad engineering solution), but this
   application seems good and intriguing because it is trash not trees.
 
-** biosolids from municple sewage treatment
-- can accumulate PFAS or forever chemicasls; these are accumulating in
+** biosolids from municipal sewage treatment
+- can accumulate PFAS or forever chemicals; these are accumulating in
   some ag areas.
