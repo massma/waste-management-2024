@@ -31,7 +31,7 @@
 - field trip?
 **** Flushing Meadows-Corona Park
 **** Fresh Kills
-- [[docview:papers/fresh_kills_GEIS_01_Project_Description.pdf::1][papers/fresh_kills_GEIS_01_Project_Description.pdf]]
+- [[file:papers/fresh_kills_GEIS_01_Project_Description.pdf][papers/fresh_kills_GEIS_01_Project_Description.pdf]]
 - https://www.nycgovparks.org/park-features/freshkills-park/public-review
 **** Great Kills
 **** Pete and Toshi Seeger Riverfront Park (Beacon)
