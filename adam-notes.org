@@ -137,6 +137,8 @@
 - different interventions to different folks, record results
 - what are the systemic barriers you come across.
 ** compost
+*** cornell's compost resource (thanks to ag group!)
+- https://compost.css.cornell.edu/science.html
 *** building scale compost system
 - use bins a la underground center
 - then use soil to build out tree wells and rain gardens, possibly in
