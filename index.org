@@ -19,6 +19,8 @@ collectively design solid/hazardous waste-related interventions that
 improve the health of the Earth system.
 
 - [[https://docs.google.com/document/d/1c4BuOWJOin1FxwsyJ0vJAVV42QEq9WeRSfVbQaDdsxA/edit?usp=sharing][Community agreement]]
+- [[https://drive.google.com/drive/folders/1SNvL7LhQjOsWKYlftEOHrcFp9EsyewzV?usp=drive_link][Google Drive Folder]]
+- [[https://docs.google.com/document/d/1jCKwF3BZla_Wkqrg_qfyJesCilgrWUD4FldnU19nSdU/edit?usp=sharing][Collective Group Questions Doc]]
 
 - Instructor/facilitator: Adam Massmann (uni: akm2203; office: Mudd
   905D)
@@ -29,6 +31,9 @@ improve the health of the Earth system.
 *** Current Tasks
 
 - Please come to class and participate!
+
+- Brainstorm [[https://docs.google.com/document/d/1RR3Uox2hw7_AmR5g3ClgPQuZ7Oxf5yuhuEtR09cQa0A/edit?usp=sharing][emerging themes, commonalities, and dependencies]] across
+  the different project topics.
 
 - Pick a group name or mascot to replace your group number; rename
   your GDrive folder with your group name.
@@ -82,10 +87,12 @@ improve the health of the Earth system.
 **** Project goal(s) and objective(s) (October 1-3 or TBD depending on group-specific differentiation)
 
 - *Tuesday*: Finish [[https://docs.google.com/presentation/d/11aUCBugQCpGuK-wzMfSpbcDVTmhLfr0heXUdb9BxZUM/edit?usp=sharing][case study presentation]]? Introduce project goal
-  and objective(s) activity & group work?
-  ([[https://docs.google.com/document/d/1nVA-FNd2jewtsN8pWyREWdsGeb6ZPnZ4UirWJqxw93k/edit?usp=sharing][activity document template]]; [[https://docs.google.com/document/d/1gIwHvf-_-enMyFMCwRr_Q2JGHb_bWpMmBe3Tb5Ct2F4/edit?usp=sharing][Adam M's working example]]).
+  and objective(s) activity? Case study group work?
+  ([[file:notes/class-09.pdf][Notes]]; [[https://docs.google.com/forms/d/e/1FAIpQLSfkKBumXIoSp9NjKeaRTCkLZIcDuLLNXmKjnmmQnBYr6nL79w/viewform][early course feedback survey]]; [[https://docs.google.com/document/d/1nVA-FNd2jewtsN8pWyREWdsGeb6ZPnZ4UirWJqxw93k/edit?usp=sharing][goals and objectives document template]]; [[https://docs.google.com/document/d/1gIwHvf-_-enMyFMCwRr_Q2JGHb_bWpMmBe3Tb5Ct2F4/edit?usp=sharing][Adam M's working example]]).
 
-- *Thursday*: Share out and collective problem solving.
+- *Thursday*: Synthesis and discussion of course feedback. Group work?
+  Share out and collective problem solving?  [[https://docs.google.com/document/d/1RR3Uox2hw7_AmR5g3ClgPQuZ7Oxf5yuhuEtR09cQa0A/edit?usp=sharing][Discussion of common
+  themes]]?
 
 **** Project and Task Scheduling (October 8-10 or TBD depending on group-specific differentiation)
 
@@ -99,11 +106,7 @@ improve the health of the Earth system.
 
 - *Tuesday*: See [[https://docs.google.com/document/d/1uYVIAEvPjDBc2uf91WIBS9z12h7s3YL8ezDSh-ITIf4/edit?usp=sharing][learning objectives]].
 
-*** Links
-- [[https://drive.google.com/drive/folders/1SNvL7LhQjOsWKYlftEOHrcFp9EsyewzV?usp=drive_link][Google Drive Folder]]
-- [[file:adam-notes.org][Adam's random notes]]
-
-*** Background Material and Broad Perspectives
+*** Background Material
 
 - [[https://drive.google.com/drive/folders/1rUqV6C6ePlatwTJeKprhtVdOv_epms-O?usp=drive_link][Past Version of This Course's Notes]]
 - [[https://ocw.mit.edu/courses/ec-716-d-lab-waste-fall-2015/][MIT OpenCourseWare DLab: Waste]] (undergrad level)
@@ -112,7 +115,7 @@ improve the health of the Earth system.
 - Very accessible: [[https://www.clu-in.org/cguides/][Community Guide to Cleanup Technologies]]
   (U.S. EPA); applies to hazardous sites (superfund, brownfields,
   etc.)
-
+- [[file:adam-notes.org][Adam's random notes]]
 
 *** Learning-related links
 
