@@ -26,8 +26,6 @@ improve the health of the Earth system.
     at 905 to get in)
 - TA/facilitator: Elizabeth Czekaj (uni: eac2280; [[https://docs.google.com/spreadsheets/d/1IXQtuIn5-8ZDRwMEd3FOCOB_d-qPSripqrjRP-Iyq9k/edit?usp=sharing][office hours sign up]])
 
-
-
 *** Current Tasks
 
 - Please come to class and participate!
@@ -123,7 +121,13 @@ improve the health of the Earth system.
   etc.)
 - [[file:adam-notes.org][Adam's random notes]]
 
-*** Learning-related links
+*** Somewhat Tangential
+
+- [[https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator][EPA GHG emission and conversion calculator]]
+- [[https://www.pushkin.fm/podcasts/revisionist-history/mcdonalds-broke-my-heart][Podcast on cooking oil evolution in the 80's]] Curtis mentioned
+  (spontaneously combusting trucks)
+
+**** Learning-related links
 
 - [[https://drive.google.com/file/d/15krpTtVov1yJicgP_5S_DpE81Le_xOde/view?usp=drive_link]["Teaching to Transgress: Education as the Practice of Freedom" by bell hooks]]
 
