@@ -28,11 +28,17 @@ improve the health of the Earth system.
 
 *** Current Tasks
 
-- Please come to class and participate!
+- Please come to class, on time, and ready to focus!
 
-- Continue with case study and/or general project progress (Group
-  folders: [[https://drive.google.com/drive/folders/1AefjMYCCdl9avWYQqWMLIsQN4zWoIKTT?usp=drive_link][Group 1]]; [[https://drive.google.com/drive/folders/1SElaL6Uh_HmFRlHKADtQxpbvNXtxHmDc?usp=drive_link][Group 2]]; [[https://drive.google.com/drive/folders/1p_0EfHSggYO_CjI74nK4yRaROg0WBTO2?usp=drive_link][Group 3]]; [[https://drive.google.com/drive/folders/1tGAffT2N14Duw1qqhTCyhEj6dtRNz3dr?usp=drive_link][Group 4]]; [[https://drive.google.com/drive/folders/1GpbF3zdH35DKRxkJPhV_rDbwt6aPH-Ls?usp=drive_link][Group 5]]; [[https://drive.google.com/drive/folders/1DBAiZun4z8Ra2eAgDbNG3iWVQHjHk7Lu?usp=drive_link][Landfull]];
-  [[https://drive.google.com/drive/folders/1sY25uLMCRknAMh893UNUzvGgp8UQ9n1-?usp=drive_link][Dahlia]]).
+- Work towards articulating a project goal (think impact), and steps,
+  deliverables, and/or interventions to achieve your goal. If
+  insufficient background knowledge is preventing the development of a
+  project goal, continue with case studies or other research (review
+  articles, textbooks, course notes, etc.). (Work folders: [[https://drive.google.com/drive/folders/1AefjMYCCdl9avWYQqWMLIsQN4zWoIKTT?usp=drive_link][Group 1]];
+  [[https://drive.google.com/drive/folders/1SElaL6Uh_HmFRlHKADtQxpbvNXtxHmDc?usp=drive_link][Group 2]]; [[https://drive.google.com/drive/folders/1p_0EfHSggYO_CjI74nK4yRaROg0WBTO2?usp=drive_link][Group 3]]; [[https://drive.google.com/drive/folders/1tGAffT2N14Duw1qqhTCyhEj6dtRNz3dr?usp=drive_link][Group 4]]; [[https://drive.google.com/drive/folders/1GpbF3zdH35DKRxkJPhV_rDbwt6aPH-Ls?usp=drive_link][Group 5]]; [[https://drive.google.com/drive/folders/1DBAiZun4z8Ra2eAgDbNG3iWVQHjHk7Lu?usp=drive_link][Landfull]]; [[https://drive.google.com/drive/folders/1sY25uLMCRknAMh893UNUzvGgp8UQ9n1-?usp=drive_link][Dahlia]])
+
+- Make a note of any questions you have, or specific stuff you want
+  Adam's feedback on.
 
 - [[file:past-tasks.org][Past tasks]]
 
@@ -86,9 +92,9 @@ improve the health of the Earth system.
 
 **** Intensive Group Work and Meets with Adam (October 8-10)
 
-- *Tuesday*: Group work and group meets with Adam
+- *Tuesday*: Group work and group meets with Adam ([[file:notes/class-11.pdf][brief note]]).
 
-- *Thursday*: Group work and group meets with Adam
+- *Thursday*: Group work and group meets with Adam.
 
 
 **** Final Collective Reflection and Feedback (December 5th)
