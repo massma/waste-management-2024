@@ -101,19 +101,18 @@ improve the health of the Earth system.
 
 - *Tuesday*: See [[https://docs.google.com/document/d/1uYVIAEvPjDBc2uf91WIBS9z12h7s3YL8ezDSh-ITIf4/edit?usp=sharing][learning objectives]].
 
-*** Project Structure and Activity Templates
-
-- *[[https://docs.google.com/document/d/1uqT7JeFUoOx3ARIZpfUwxisICjg-va6X6cFpaDt7KLk/edit?usp=drive_link][Case Study Template]]*; *[[https://docs.google.com/document/d/1J4D-eV0YPp4DpwdvBwOHhm3vmU6V90A_bLrzC1vWvNc/edit#heading=h.smp3a8ds7zdr][Adam M.'s Example]]*
-- *[[https://docs.google.com/document/d/1nVA-FNd2jewtsN8pWyREWdsGeb6ZPnZ4UirWJqxw93k/edit?usp=sharing][Goal and Objectives Template]]*; *[[https://docs.google.com/document/d/1gIwHvf-_-enMyFMCwRr_Q2JGHb_bWpMmBe3Tb5Ct2F4/edit?usp=drive_link][Adam M's Example]]*
-- *Task Schedule Template* (On Adam's TO DO list: contact Adam if you're waiting on
-  it)
-
 *** Class-wide Collaborative Docs
 
 - [[https://drive.google.com/drive/folders/1SNvL7LhQjOsWKYlftEOHrcFp9EsyewzV?usp=drive_link][Google Drive Folder]]
 - [[https://docs.google.com/document/d/1jCKwF3BZla_Wkqrg_qfyJesCilgrWUD4FldnU19nSdU/edit?usp=sharing][Collective Group Questions Doc]]
 - [[https://docs.google.com/document/d/1-SVvu75G3VTB-Ba__8BPgSd7jwm9xUryNe1dl-wrCZc/edit?usp=sharing][Group Progress Summary Doc]]
 
+*** Project Structure and Activity Templates
+
+- *[[https://docs.google.com/document/d/1uqT7JeFUoOx3ARIZpfUwxisICjg-va6X6cFpaDt7KLk/edit?usp=drive_link][Case Study Template]]*; *[[https://docs.google.com/document/d/1J4D-eV0YPp4DpwdvBwOHhm3vmU6V90A_bLrzC1vWvNc/edit#heading=h.smp3a8ds7zdr][Adam M.'s Example]]*
+- *[[https://docs.google.com/document/d/1nVA-FNd2jewtsN8pWyREWdsGeb6ZPnZ4UirWJqxw93k/edit?usp=sharing][Goal and Objectives Template]]*; *[[https://docs.google.com/document/d/1gIwHvf-_-enMyFMCwRr_Q2JGHb_bWpMmBe3Tb5Ct2F4/edit?usp=drive_link][Adam M's Example]]*
+- *Task Schedule Template* (On Adam's TO DO list: contact Adam if you're waiting on
+  it)
 
 *** Background Material
 
