@@ -95,11 +95,12 @@ improve the health of the Earth system.
 
 - *Tuesday*: Group work and group meets with Adam ([[file:notes/class-11.pdf][brief note]]).
 
-- *Thursday*: Group work and group meets with Adam and Elizabeth.
+- *Thursday*: Group work and group meets with Adam and Elizabeth (note
+  on focus).
 
 **** October 15-17: Intensive Group Work and Meets with Adam and Elizabeth
 
-- *Tuesday*: Group work and group meets with Adam and Elizabeth.
+- *Tuesday*: Publishing resources. Wellbeing: [[file:notes/sleep-wellbeing.pdf][sleep and food]]. Group work and group meets with Adam and Elizabeth.
 
 - *Thursday*: Group work and group meets with Adam and Elizabeth.
 
@@ -127,6 +128,20 @@ improve the health of the Earth system.
 - *[[https://docs.google.com/document/d/1nVA-FNd2jewtsN8pWyREWdsGeb6ZPnZ4UirWJqxw93k/edit?usp=sharing][Goal and Objectives Template]]*; *[[https://docs.google.com/document/d/1gIwHvf-_-enMyFMCwRr_Q2JGHb_bWpMmBe3Tb5Ct2F4/edit?usp=drive_link][Adam M's Example]]*
 - *Task Schedule Template* (On Adam's TO DO list: contact Adam if you're waiting on
   it)
+
+*** Publishing and Library Services
+- [[https://arxiv.org/][arXiv]]: free archive for "scholarly articles in the fields of
+  physics, mathematics, computer science, quantitative biology,
+  quantitative finance, statistics, electrical engineering and systems
+  science, and economics."
+- [[https://library.columbia.edu/services/research-data-services/research-data-management.html][Research Data Management at Columbia Library]] (see also Moacir's [[https://talks.moacir.com/-/data-management-plans-and-more-2022#/][slides on
+  data management plans]].)
+- [[https://library.columbia.edu/services/digital-scholarship/publish-with-columbia-digital-scholarship.html][Publishing with Digital Scholarship at Columbia Libraries]] (podcasts
+  and academic journals)
+- [[https://academiccommons.columbia.edu/][Academic Commons]] at Columbia; free and public publishing of pretty
+  much anything; reports, podcasts, videos, data, software, etc.
+- [[https://datadryad.org][Dryad]]: curated data (people will curate the data before hosting)
+
 
 *** Background Material
 

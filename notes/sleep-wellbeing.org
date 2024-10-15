@@ -1,0 +1,16 @@
+#+OPTIONS: H:2 toc:nil num:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+* Solid and Hazardous Waste Management
+** Health and Wellbeing: sleep and food
+- Most of all I care about you as humans, but wellness also
+  matters for engineering
+
+- Prioritize sleep
+  - Sleep impacts ability and performance (including engineering problem solving)
+
+  - Screens, caffeine, and alcohol (especially drinks before bed)
+    harm sleep
+
+- Prioritize eating well
+  - If access to food is a challenge for you, please let me know
