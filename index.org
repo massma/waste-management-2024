@@ -136,7 +136,7 @@ improve the health of the Earth system.
   and academic journals)
 - [[https://library.columbia.edu/services/research-data-services/research-data-management.html][Research Data Management at Columbia Library]] (see also Moacir's [[https://talks.moacir.com/-/data-management-plans-and-more-2022#/][slides on
   data management plans]].)
-- [[https://datadryad.org][Dryad]]: curated data (people will curate the data before hosting)
+- [[https://datadryad.org][Dryad]]: curated data
 - [[https://arxiv.org/][arXiv]]: free archive for "scholarly articles in the fields of
   physics, mathematics, computer science, quantitative biology,
   quantitative finance, statistics, electrical engineering and systems
