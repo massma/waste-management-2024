@@ -134,12 +134,12 @@ improve the health of the Earth system.
   physics, mathematics, computer science, quantitative biology,
   quantitative finance, statistics, electrical engineering and systems
   science, and economics."
-- [[https://library.columbia.edu/services/research-data-services/research-data-management.html][Research Data Management at Columbia Library]] (see also Moacir's [[https://talks.moacir.com/-/data-management-plans-and-more-2022#/][slides on
-  data management plans]].)
-- [[https://library.columbia.edu/services/digital-scholarship/publish-with-columbia-digital-scholarship.html][Publishing with Digital Scholarship at Columbia Libraries]] (podcasts
-  and academic journals)
 - [[https://academiccommons.columbia.edu/][Academic Commons]] at Columbia; free and public publishing of pretty
   much anything; reports, podcasts, videos, data, software, etc.
+- [[https://library.columbia.edu/services/digital-scholarship/publish-with-columbia-digital-scholarship.html][Publishing with Digital Scholarship at Columbia Libraries]] (podcasts
+  and academic journals)
+- [[https://library.columbia.edu/services/research-data-services/research-data-management.html][Research Data Management at Columbia Library]] (see also Moacir's [[https://talks.moacir.com/-/data-management-plans-and-more-2022#/][slides on
+  data management plans]].)
 - [[https://datadryad.org][Dryad]]: curated data (people will curate the data before hosting)
 
 
