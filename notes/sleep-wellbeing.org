@@ -3,8 +3,9 @@
 #+LATEX_CLASS_OPTIONS: [presentation]
 * Solid and Hazardous Waste Management
 ** Health and Wellbeing: sleep and food
-- Most of all I care about you as humans, but wellness also
-  matters for engineering
+
+- Most of all I care about your health as humans, but wellness also
+  impacts our ability to design engineering solutions.
 
 - Prioritize sleep
   - Sleep impacts ability and performance (including engineering problem solving)
