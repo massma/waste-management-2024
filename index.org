@@ -127,7 +127,7 @@ improve the health of the Earth system.
 - *Tuesday*: *No class for election day*
 
 - *Thursday*: Meetings and feedback to groups with Oct 29/31/Nov 1
-  draft deadline. [[file:notes/chatgpt.pdf][Note on ChatGPT]]. [Nuclear Nerds, Red Solo Cup, AluminiGlam].
+  draft deadline [Nuclear Nerds, Red Solo Cup, AluminiGlam].  [[file:notes/chatgpt.pdf][Note on ChatGPT]].
 
 **** November 12-14: Meetings, Draft Feedback, Group Work (start of presentations?)
 
