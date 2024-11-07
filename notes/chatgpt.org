@@ -1,0 +1,9 @@
+#+OPTIONS: H:2 toc:nil num:nil
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [presentation]
+* Solid and Hazardous Waste Management
+** On ChatGPT
+
+- ChatGPT uses an obscene amount of energy and water
+
+- I'd rather you do nothing than use ChatGPT
