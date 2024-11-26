@@ -26,6 +26,14 @@
 *** nyc consumer succinct summary of where stuff goes
 - https://www.nyc.gov/site/dsny/collection/get-rid-of/metal-glass-plastic-cartons.page
 *** redesign of past nyc (or other municipal) system
+*** random municipal solid and hazardous waste managment links
+- https://dec.ny.gov/environmental-protection/waste-management/solid-waste-management-facilities/recyclables-handling-recovery
+- https://data.ny.gov/Energy-Environment/Recyclables-Handling-Recovery-Facilities-RHRF-Soli/v9cx-y7xx
+- https://extapps.dec.ny.gov/fs/projects/SWMF/Annual%20Reports_Solid%20Waste%20Management%20Facility/Annual%20Reports_by%20Activity%20Type/Recyclables%20Handling%20and%20Recovery%20Facilities_RHRF/RHRF%20Annual%20Reports%20-%202022/R2/24MGO_SIMS_Metal_Municipal_Recycling_rhrf_R2_2022.2023-2-28.AR.pdf
+- https://dsny.cityofnewyork.us/wp-content/uploads/reports/future-of-trash-april-2023.pdf
+
+
+
 ** waste dumps -> parks
 *** NYC
 - field trip?
